@@ -29,7 +29,7 @@ https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PERU" tvg-logo="", TV-TARAPOTO-HD (TARAPOTO)
 https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-HD (CHOSICA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-HD (ERROR) (CHOSICA)
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", BHTV-HD (LIMA)
@@ -80,11 +80,11 @@ https://mediastreamm.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", SISTEMA 1 (HUARAZ)
 https://tv.siete.us/sistema1/sistema1/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MODA (HUANCAYO) HUAYNOS
+#EXTINF:-1 group-title="PERU" tvg-logo="", MODA-HD (HUANCAYO) HUAYNOS
 https://tvdatta.com:3383/live/huancayotvlive.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CR-TV (MOYOBAMBA)
-https://live.obslivestream.com:1936/crtv/ngrp:crtv_all/playlist.m3u8
+https://live.obslivestream.com:1936/crtv/ngrp:crtv_all/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", RTV TOTAL (YURIMAGUAS)
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
@@ -209,6 +209,8 @@ https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 #EXTINF:-1 group-title="CINETV" tvg-logo="", BARVA-SD
 https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 
+
+
 #EXTINF:-1 group-title="CINETV" tvg-logo="", WOW-TV-HD | DO
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -224,11 +226,11 @@ https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="CINETV" tvg-logo="", FEEL GOOD VERDI
 https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", ALCANCE_TV-HD
-https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="CINETV" tvg-logo="", DANTV_HD | DO
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 group-title="CINETV" tvg-logo="", ALCANCE_TV-HD
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="CINETV" tvg-logo="", ANTARES_TV | PE
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
