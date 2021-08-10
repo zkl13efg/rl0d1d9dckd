@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="" tv-test="PERU.m3u"
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", EXITOSA-SD
+#EXTINF:-1 group-title="PERU" tvg-logo="", EXITOSA-SD (LIMA)
 https://cu.onliv3.com/livevd1/user2_low/index.m3u8?PlaylistM3UC
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", PANAME-HD
+#EXTINF:-1 group-title="PERU" tvg-logo="", PANAME-HD (LIMA)
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CHAVO DEL 8
+#EXTINF:-1 group-title="PERU" tvg-logo="", CHAVO DEL 8 (24H)
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", LOS SIMPSONS
+#EXTINF:-1 group-title="PERU" tvg-logo="", LOS SIMPSONS (24H)
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CLASICOS-TV
+#EXTINF:-1 group-title="PERU" tvg-logo="", CLASICOS-TV-SD
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", PLT- HISTORIA
+#EXTINF:-1 group-title="PERU" tvg-logo="", PLT- HISTORIA-HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TV-TARAPOTO-HD (TARAPOTO)
@@ -24,37 +24,37 @@ https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-HD (ERROR) (CHOSICA)
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", SUPER CANAL-HD (YURIMAGUAS)
+#EXTINF:-1 group-title="PERU" tvg-logo="", SUPER CANAL-SD (YURIMAGUAS)
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", OMEGA-TV (YURIMAGUAS)
+#EXTINF:-1 group-title="PERU" tvg-logo="", OMEGA-TV-SD (YURIMAGUAS)
 https://7.innovatestream.pe:19360/omega/omega.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", RIBEREÑA (BELLAVISTA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", RIBEREÑA-SD (BELLAVISTA)
 https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MASTER TV (TARAPOTO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", MASTER TV-SD (TARAPOTO)
 https://tv.oyotunstream.com/master/master/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", PLANETA TV-HD (MOYOBAMBA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", PLANETA TV-SD (MOYOBAMBA)
 https://live.obslivestream.com:1936/planetatv/ngrp:planetatv_all/playlist.m3u8?DVR
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", QT-TV (CUSCO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", QT-TV-HD (CUSCO)
 https://mediastreamm.com:3753/live/qosqotimeslive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MODA-HD (HUANCAYO) HUAYNOS
+#EXTINF:-1 group-title="PERU" tvg-logo="", MODA-HUANCAYO-HD
 https://tvdatta.com:3383/live/huancayotvlive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL-TV-RADIO (PUERTO MALDONADO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL-TV-RADIO-HD (PUERTO MALDONADO)
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", UNITEL-SD (HUANCAYO)
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", SISTEMA 1 (HUARAZ)
+#EXTINF:-1 group-title="PERU" tvg-logo="", SISTEMA 1-HD (HUARAZ)
 https://tv.siete.us/sistema1/sistema1/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CR-TV (MOYOBAMBA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", CR-TV-SD (MOYOBAMBA)
 https://live.obslivestream.com:1936/crtv/ngrp:crtv_all/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", BHTV-HD (LIMA)
@@ -63,25 +63,25 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", VISIÓN NOTICIAS PE-HD (LIMA)
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", VIA TV-HD (TARAPOTO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", VIA TV-SD (TARAPOTO)
 https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TV PERUANISIMA-HD
+#EXTINF:-1 group-title="PERU" tvg-logo="", TV PERUANISIMA-SD (LIMA)
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR1 (CAMANA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 1-SD (CAMANA)
 https://qlobbidev.s.llnwi.net/telesur3/hls/camana.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR2 (MOLLENDO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 2-SD (MOLLENDO)
 https://qlobbidev.s.llnwi.net/telesur3/hls/mollendo.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR3 (MOQUEGUA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 3-SD (MOQUEGUA)
 https://qlobbidev.s.llnwi.net/telesur3/hls/moquegua.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR4 (TACNA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 4-SD (TACNA)
 https://qlobbidev.s.llnwi.net/telesur3/hls/tacna.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL-RADIO (TARAPOTO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL-RADIO-SD (TARAPOTO)
 https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", PRIMAVERA 15-HD (MOQUEGUA)
@@ -93,16 +93,16 @@ https://tvsource.gacetaucayalina.com/hls/prueba.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", UCI-FHD (LIMA)
 http://170.79.102.223/UCI/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", ONDA DIGITAL-HD (ERROR) (LIMA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", ONDA DIGITAL-SD (ERROR) (LIMA)
 http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", URANIO TV-HD (ERROR) (YURIMAGUAS)
 https://live.siete.us/uraniotv/uraniotv/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CAJAMARCA TV (ERROR)
+#EXTINF:-1 group-title="PERU" tvg-logo="", CAJAMARCA TV-SD (ERROR)
 https://live.siete.us/cajamarcatv/cajamarcatv/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TV COSMOS (ERROR) (TRUJILLO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TV COSMOS-SD (ERROR) (TRUJILLO)
 https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", GENIOS TV-HD (ERROR) (MOYOBAMBA)
@@ -114,10 +114,10 @@ https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PERU" tvg-logo="", RTV TOTAL (ERROR) (YURIMAGUAS)
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", BEST CABLE-HD (ERROR)
+#EXTINF:-1 group-title="PERU" tvg-logo="", BEST CABLE-HD (ERROR) (LIMA)
 https://live.siete.us/bestcable/bestcable/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CABLE SPORTS (ERROR)
+#EXTINF:-1 group-title="PERU" tvg-logo="", CABLE SPORTS-SD (ERROR) (LIMA)
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 
 
