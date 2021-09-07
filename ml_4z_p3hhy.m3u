@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url="" tv-test="PERU.m3u"
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", EXITOSA-SD (LIMA)  ==>{*NO LAS 24 Horas*}
+#EXTINF:-1 group-title="PERU" tvg-logo="", [01] EXITOSA-SD (LIMA)  ==>{*NO LAS 24 Horas*}
 https://cu.onliv3.com/livevd1/user2_low/index.m3u8?PlaylistM3UC
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", PANAMERICANA-SD (LIMA)  ==>{*NO LAS 24 Horas*}
+#EXTINF:-1 group-title="PERU" tvg-logo="", (02) PANAMERICANA-SD (LIMA)  ==>{*NO LAS 24 Horas*}
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CHAVO DEL 8-SD
+#EXTINF:-1 group-title="PERU" tvg-logo="", 03:: CHAVO DEL 8-SD
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", LOS SIMPSONS-SD
+#EXTINF:-1 group-title="PERU" tvg-logo="", 04: LOS SIMPSONS-SD
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CLASICOS DE TV-SD
+#EXTINF:-1 group-title="PERU" tvg-logo="", {05} CLASICOS DE TV-SD
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
 
