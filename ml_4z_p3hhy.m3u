@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="PERU" tvg-logo="", EXITOSA-SD (LIMA)
 https://cu.onliv3.com/livevd1/user2_low/index.m3u8?PlaylistM3UC
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", PANAMERICANA-SD (LIMA) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", PANAMERICANA-SD (LIMA)  ==>!!{ _NO-24H_ }¡¡
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CHAVO DEL 8-SD
@@ -24,16 +24,16 @@ https://live.obslivestream.com:1936/planetatv/ngrp:planetatv_all/playlist.m3u8?D
 #EXTINF:-1 group-title="PERU" tvg-logo="", TV TARAPOTO-HD (TARAPOTO)
 https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-HD (CHOSICA) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-HD (CHOSICA)  ==>!!{ _NO-24H_ }¡¡
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CABLE C NETWORD-HD
+#EXTINF:-1 group-title="PERU" tvg-logo="", CCN-HD
 https://tv.siete.us/cntv/index.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CATACAOS-HD (CATACAOS)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", SUPER CANAL-HD (YURIMAGUAS) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", SUPER CANAL-HD (YURIMAGUAS)  ==>!!{ _NO-24H_ }¡¡
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", HUACHO TV-HD
@@ -42,13 +42,13 @@ https://tv.siete.us/hchoperutv/hchoperutv/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", CNC DIGITAL-HD (IQUITOS)
 https://v4.tustreaming.cl/cnc/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", UNITEL-HD (HUANCAYO) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", UNITEL-HD (HUANCAYO)  ==>!!{ _NO-24H_ }¡¡
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", MEGA TV-HD (JAEN)
 https://rtmp02.portalexpress.es/megatv/megatv/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", SURTVILO-HD (ILO) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", SURTVILO-HD (ILO)  ==>!!{ _NO-24H_ }¡¡
 https://stmv.panel.grupolimalive.com/surtv/surtv/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", PERUVIAN RADIO TV-HD
@@ -60,10 +60,10 @@ https://mediastreamm.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", TUMPIS-HD (TUMBES) 
 https://mediastreamm.com:3531/live/tumpistvlive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", KBO-HD (QUILLABAMBA) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", KBO-HD (QUILLABAMBA)  ==>!!{ _NO-24H_ }¡¡
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MILLENIUM-HD (PUCALLPA) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", MILLENIUM-HD (PUCALLPA)  ==>!!{ _NO-24H_ }¡¡
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TV SISTEMAS-HD (CUSCO)
@@ -143,7 +143,7 @@ https://qlobbidev.s.llnwi.net/telesur3/hls/tacna.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", MEGA TV-LOW (AREQUIPA) 
 https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CR-TV-LOW (MOYOBAMBA) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", CR-TV-LOW (MOYOBAMBA)  ==>!!{ _NO-24H_ }¡¡
 https://live.obslivestream.com:1936/crtv/ngrp:crtv_all/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", RTV TOTAL-SD (YURIMAGUAS)
@@ -155,16 +155,16 @@ https://live.siete.us/bestcable/bestcable/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", BEST CABLE SPORTS-HD (LIMA)
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL TV RADIO-HD (PUERTO MALDONADO) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL TV RADIO-HD (PUERTO MALDONADO)  ==>!!{ _NO-24H_ }¡¡
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", GACETA-HD (UCAYALI) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", GACETA-HD (UCAYALI)  ==>!!{ _NO-24H_ }¡¡
 https://tvsource.gacetaucayalina.com/hls/prueba.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", OMEGA-TV-SD (YURIMAGUAS) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", OMEGA-TV-SD (YURIMAGUAS)  ==>!!{ _NO-24H_ }¡¡
 https://7.innovatestream.pe:19360/omega/omega.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", UCHU TV (CUSCO) {NO-24H}
+#EXTINF:-1 group-title="PERU" tvg-logo="", UCHU TV (CUSCO)  ==>!!{ _NO-24H_ }¡¡
 https://tna5.bozztv.com/Cusco/index.m3u8
 
 
@@ -246,13 +246,13 @@ https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 #EXTINF:-1 group-title="CINETV" tvg-logo="", AME TV-SD | AR
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", EVA STREAM-SD {NO-24H}
+#EXTINF:-1 group-title="CINETV" tvg-logo="", EVA STREAM-SD  ==>!!{ _NO-24H_ }¡¡
 https://stmv.panel.mivideo.pro/evastream/evastream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="CINETV" tvg-logo="", EXPREZION7-SD | CL
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", CABLEMAS-SD {NO-24H}
+#EXTINF:-1 group-title="CINETV" tvg-logo="", CABLEMAS-SD  ==>!!{ _NO-24H_ }¡¡
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
 #EXTINF:-1 group-title="CINETV" tvg-logo="", BUTACA TV-SD
@@ -310,10 +310,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094
 
 
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", ZEE MUNDO INDU-HD | CR {NO-24H}
+#EXTINF:-1 group-title="CINETV" tvg-logo="", ZEE MUNDO INDU-HD | CR  ==>!!{ _NO-24H_ }¡¡
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", BOLLYWOOD 1-LOW {PAUSADO}
+#EXTINF:-1 group-title="CINETV" tvg-logo="", BOLLYWOOD 1-LOW {++++++PAUSADO++++++}
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 
 #EXTINF:-1 group-title="CINETV" tvg-logo="", BOLLYWOOD 2-SD
@@ -325,22 +325,22 @@ https://sc.id-tv.kz/bollywood_hd.m3u8
 #EXTINF:-1 group-title="CINETV" tvg-logo="", SAN PEDRO TV-SD | AR
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", SARAPIQUI-SD | CR {PAUSADO}
+#EXTINF:-1 group-title="CINETV" tvg-logo="", SARAPIQUI-SD | CR {++++++PAUSADO++++++}
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 group-title="CINETV" tvg-logo="", ORBIT TV-SD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", RETRO PLUS | CL {NO-24H}
+#EXTINF:-1 group-title="CINETV" tvg-logo="", RETRO PLUS | CL  ==>!!{ _NO-24H_ }¡¡
 https://vdo.billingchs.com:3408/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", SURVISION {NO-24H}
+#EXTINF:-1 group-title="CINETV" tvg-logo="", SURVISION  ==>!!{ _NO-24H_ }¡¡
 https://v2.tustreaming.cl/canalsurvision/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", CINE CLUB-HD | PE {NO-24H}
+#EXTINF:-1 group-title="CINETV" tvg-logo="", CINE CLUB-HD | PE  ==>!!{ _NO-24H_ }¡¡
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CINETV" tvg-logo="", DREIKO {NO-24H}
+#EXTINF:-1 group-title="CINETV" tvg-logo="", DREIKO  ==>!!{ _NO-24H_ }¡¡
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 
 
@@ -498,32 +498,32 @@ https://tv.siete.us/cumbiatv/index.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="", TURBO MIXTV (CAJAMARCA) | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", HATUN-TV (HUAYNOS) | PE {PAUSADO}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", HATUN-TV (HUAYNOS) | PE {++++++PAUSADO++++++}
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", BELLEZA ANDINA (HUAYNOS) | PE {NO-24H}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", BELLEZA ANDINA (HUAYNOS) | PE  ==>!!{ _NO-24H_ }¡¡
 https://tv.siete.us/bellezaandina/index.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", AMATISTA-TV | CL {NO-24H}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", AMATISTA-TV | CL  ==>!!{ _NO-24H_ }¡¡
 https://paneltv.online:1936/8096/8096/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", RADIO-LADO OSCURO | CL {NO-24H}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", RADIO-LADO OSCURO | CL  ==>!!{ _NO-24H_ }¡¡
 https://video.streamingchilenos.cl:1936/8006/8006/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", XTV | CL {NO-24H}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", XTV | CL  ==>!!{ _NO-24H_ }¡¡
 https://tls.cdnz.cl:443/xtvmusic-media/xtvmusic-media/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", SEÑAL URBANA {NO-24H}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", SEÑAL URBANA  ==>!!{ _NO-24H_ }¡¡
 https://inliveserver.com:1936/14148/14148/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", FANTASIA | CL {NO-24H}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", FANTASIA | CL  ==>!!{ _NO-24H_ }¡¡
 https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", TOUR MUSIC | CR  {NO-24H}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", TOUR MUSIC | CR   ==>!!{ _NO-24H_ }¡¡
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
 
@@ -538,7 +538,7 @@ https://tls.cdnz.cl/onradio4/live/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="", CLASSIC ART SHOWCASE
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", ARABE {NO-24H}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", ARABE  ==>!!{ _NO-24H_ }¡¡
 https://stmv2.zcastbr.com/julio4589/julio4589/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="", INDU-EEUU
@@ -547,22 +547,22 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM
 
 
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", MUSIC TOP | AR {PAUSADO}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", MUSIC TOP | AR {++++++PAUSADO++++++}
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", TOP-100 | CL {PAUSADO}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", TOP-100 | CL {++++++PAUSADO++++++}
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/2.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", HITS | CL {PAUSADO}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", HITS | CL {++++++PAUSADO++++++}
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/5.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", POP | CL {PAUSADO}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", POP | CL {++++++PAUSADO++++++}
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/6.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", REEGGE | CL {PAUSADO}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", REEGGE | CL {++++++PAUSADO++++++}
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/4.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", TROPICAL | CL {PAUSADO}
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", TROPICAL | CL {++++++PAUSADO++++++}
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/3.m3u8?PlaylistM3UCL
 
 
