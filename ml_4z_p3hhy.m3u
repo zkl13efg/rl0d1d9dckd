@@ -408,6 +408,9 @@ https://qlobbidev.s.llnwi.net/telesur3/hls/tacna.m3u8
 
 
 
+
+
+
 #EXTINF:-1 group-title="CINETV" tvg-logo="", [SD:] CINE - TNT
 http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41014
 
@@ -808,149 +811,6 @@ https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (01) - CINCO TV-HD | CL
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (02) - HUASCO-SD | CL
-https://paneltv.online:1936/8062/8062/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (03) - ENFOQUE DIGITAL-HD | CL
-https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (04) - ALTERNATIVA-HD | CL
-https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (05) - CANAL 2-FHD | CL
-https://unlimited1-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (06) - UCV-SD | CL   {+PAUSADO+}
-https://unlimited2-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (07) - BUIN SOMOS-HD | CL
-https://bst.buin.cl/0.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (08) - CANAL 74-HD | CL
-https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (09) - PIAMAR-SD | CL   {+PAUSADO+}
-http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (10) - PACIFICO-HD | CL
-https://5eae379fb77bb.streamlock.net:443/PacificoTelevision/PacificoTelevision/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (11) - COOP TV-HD | CL
-https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (12) - IMPRO-HD | CL
-https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", (13) - ADN-HD | AR {ADN-FUTBOLL}
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="", (14) - AMERICA-HD | AR {DOCUMENTAL}
-https://stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (15) - ROSARIO TV-HD | AR
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (16) - FENIX RADIO TV-SD | AR
-https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (17) - SAN JUAN-HD | AR
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (18) - JALISCO TV-FHD | MX
-https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (19) - AMX-HD | MX
-https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (20) - MVS PRESISO-HD | MX
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (21) - CANCUN 10-HD | MX
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (22) - COLIMA-HD | MX
-https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (23) - ONCE-HD | MX
-https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (24) - ONCE NAC-HD | MX
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (25) - SIZART-HD | MX
-https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (26) - TELEPLAY-SD | MX
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (27) - TVP CULIACAN-HD | MX
-https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PAISES" tvg-logo="", (28) - TVP OBREGON-HD | MX
-https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
 
 
 
