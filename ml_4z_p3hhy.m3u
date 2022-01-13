@@ -15,7 +15,7 @@ https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-HD (CHOSICA) =>{NO 24 Horas}
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CCN-HD
+#EXTINF:-1 group-title="PERU" tvg-logo="", CCN-HD =>{NO 24 Horas}
 https://tv.siete.us/cntv/index.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CATACAOS-HD (CATACAOS)
@@ -24,19 +24,19 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", SUPER CANAL-HD (YURIMAGUAS) =>{NO 24 Horas}
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", HUACHO TV-HD
+#EXTINF:-1 group-title="PERU" tvg-logo="", HUACHO TV-HD =>{NO 24 Horas}
 https://tv.siete.us/hchoperutv/hchoperutv/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MODA HUANCAYO-HD (HUANCAYO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", MODA HUANCAYO-HD (HUANCAYO) =>{NO 24 Horas}
 https://tvdatta.com:3383/live/huancayotvlive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CNC DIGITAL-HD (IQUITOS)
+#EXTINF:-1 group-title="PERU" tvg-logo="", CNC DIGITAL-HD (IQUITOS) =>{NO 24 Horas}
 https://v4.tustreaming.cl/cnc/index.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", UNITEL-HD (HUANCAYO) =>{NO 24 Horas}
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MEGA TV-HD (JAEN)
+#EXTINF:-1 group-title="PERU" tvg-logo="", MEGA TV-HD (JAEN) =>{NO 24 Horas}
 https://rtmp02.portalexpress.es/megatv/megatv/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", SURTVILO-HD (ILO) =>{NO 24 Horas}
@@ -51,7 +51,7 @@ https://mediastreamm.com:3531/live/tumpistvlive.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", X TV-HD (CHACHAPOYAS)
 https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", PRIMAVERA TV-HD (MOQUEGUA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", PRIMAVERA TV-HD (MOQUEGUA) =>{NO 24 Horas}
 https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", GENIOS TV-HD (MOYOBAMBA) =>{NO 24 Horas}
@@ -63,12 +63,12 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", VIA TV-HD (TARAPOTO) =>{NO 24 Horas}
 https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", SISTEMA 1-HD (HUARAZ) 
+#EXTINF:-1 group-title="PERU" tvg-logo="", SISTEMA 1-HD (HUARAZ) =>{NO 24 Horas}
 https://tv.siete.us/sistema1/sistema1/index.m3u8
 
 
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", PERUVIAN RADIO TV-SD
+#EXTINF:-1 group-title="PERU" tvg-logo="", PERUVIAN RADIO TV-SD =>{NO 24 Horas}
 https://stmv.panel.grupolimalive.com/peruviantv/peruviantv/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", MILLENIUM-SD (PUCALLPA) =>{NO 24 Horas}
@@ -80,7 +80,7 @@ https://tv.oyotunstream.com/master/master/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", URANIO TV-SD (YURIMAGUAS) =>{NO 24 Horas}
 https://live.siete.us/uraniotv/uraniotv/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", RIBEREÑA RADIO TV-SD (BELLAVISTA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", RIBEREÑA RADIO TV-SD (BELLAVISTA) =>{NO 24 Horas}
 https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", RN TV-SD (YURIMAGUAS)
@@ -101,7 +101,7 @@ https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", ANTARES TV-SD (LIMA) =>{NO 24 Horas}
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", ANDES RADIO TV-SD (SICUANI)
+#EXTINF:-1 group-title="PERU" tvg-logo="", ANDES RADIO TV-SD (SICUANI) =>{NO 24 Horas}
 https://srv4.zcast.com.br/prelatura2020/prelatura2020/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TV SISTEMAS-FHD (CUSCO) =>{NO 24 Horas}
@@ -113,7 +113,7 @@ https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", VISIÓN NOTICIAS PERU-FHD (LIMA)
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", UCI-FHD (LIMA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", UCI-FHD (LIMA) =>{NO 24 Horas}
 http://170.79.102.223/UCI/index.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", ONDA DIGITAL-SD (LIMA) =>{NO 24 Horas}
@@ -128,7 +128,7 @@ https://7.innovatestream.pe:19360/omega/omega.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", RTV TOTAL-SD (YURIMAGUAS) =>{NO 24 Horas}
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MEGA TV-SD (AREQUIPA) 
+#EXTINF:-1 group-title="PERU" tvg-logo="", MEGA TV-SD (AREQUIPA) =>{NO 24 Horas}
 https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", BEST CABLE-HD (LIMA)
@@ -137,39 +137,35 @@ https://live.siete.us/bestcable/bestcable/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", BEST CABLE SPORTS-SD (LIMA) =>{NO 24 Horas}
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", JUANJUI RADIO TV-SD (JUANJUI)
+#EXTINF:-1 group-title="PERU" tvg-logo="", JUANJUI RADIO TV-SD (JUANJUI) =>{NO 24 Horas}
 https://rtmp02.portalexpress.es/radiotvjuanjui/radiotvjuanjui/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CASMA-SD (CASMA)
 https://stmv.panel.grupolimalive.com/gold/gold/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", GACETA UCAYALINA [Not 24/7]
+#EXTINF:-1 group-title="PERU" tvg-logo="", GACETA UCAYALINA =>{NO 24 Horas}
 https://tvsource.gacetaucayalina.com/hls/prueba.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", IMAGEN TELEVISIÓN (RIOJA) [Not 24/7]
+#EXTINF:-1 group-title="PERU" tvg-logo="", IMAGEN TV (RIOJA) =>{NO 24 Horas}
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MATICES TV (CAÑETE) [Not 24/7]
+#EXTINF:-1 group-title="PERU" tvg-logo="", MATICES TV (CAÑETE) =>{NO 24 Horas}
 http://v4.tustreaming.cl/matices/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TV COSMOS-SD (TRUJILLO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TV COSMOS-SD (TRUJILLO) =>{NO 24 Horas}
 https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 1-LOW (CAMANA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 1-LOW (CAMANA) =>{NO 24 Horas}
 https://qlobbidev.s.llnwi.net/telesur3/hls/camana.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 2-LOW (MOLLENDO)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 2-LOW (MOLLENDO) =>{NO 24 Horas}
 https://qlobbidev.s.llnwi.net/telesur3/hls/mollendo.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 3-SD (MOQUEGUA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 3-SD (MOQUEGUA) =>{NO 24 Horas}
 https://qlobbidev.s.llnwi.net/telesur3/hls/moquegua.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 4-LOW (TACNA)
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 4-LOW (TACNA) =>{NO 24 Horas}
 https://qlobbidev.s.llnwi.net/telesur3/hls/tacna.m3u8
-
-
-
-
 
 
 
