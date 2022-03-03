@@ -46,6 +46,13 @@ https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", ANTARES TV-SD (LIMA) =>{NO 24 Horas}
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="PERU" tvg-logo="", PERU CHANEL (LIMA)
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", LA ABEJA NEWS (LIMA)
+http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
+
+
 #EXTINF:-1 group-title="PERU" tvg-logo="", VISIÓN NOTICIAS PERU-FHD (LIMA)
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
 
@@ -615,7 +622,102 @@ https://inliveserver.com:1936/14148/14148/playlist.m3u8?PlaylistM3UCL
 
 
 
+
+
+
+
+
+
+
+
+
+
  
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", EURO NEWS ESP
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", FRANCE 24 ESP
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", FRANCE 24 INGLES
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", CCN INTERNACIONAL
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", ATV NOTICIAS-SD
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", TRT WORLD INGLES
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", BBC WORLD-SD
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", ALCARRIA TV-SD
+http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", ATV-SD
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", PANAMERICANA-SD
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", WILLAX-SD
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmq6Vf5QCRkWlkWLUqqwQZ3c)/dm/3/x7x4dgx/s/live-0.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", RTV INGLES
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", 7 NOTICIAS
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", RT NEWS ESP
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="", RT NEWS INGLES
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
