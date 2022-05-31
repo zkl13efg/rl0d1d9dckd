@@ -200,17 +200,11 @@ https://cu.onliv3.com/livevd1/user2_low/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", CLASICOS TV-SD
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELE CLASICOS-HD
-https://tvdatta.com:3574/stream/play.m3u8
-
 #EXTINF:-1 group-title="PERU" tvg-logo="", ÑUBLE RTV-FHD | CL
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", DAN TV-FHD | DO
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", EXPREZION 7-FHD | CL
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", ORBIT TV-HD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
@@ -287,17 +281,11 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", MEGA TV-FHD (JAEN)
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CNC TV-FHD (CAJAMARCA)
-https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-
 #EXTINF:-1 group-title="PERU" tvg-logo="", TV TARAPOTO-FHD (TARAPOTO)
 https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", GENIOS TV-FHD (MOYOBAMBA)
 https://live.obslivestream.com/geniostvmux/index.m3u8
-
-
-
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", SUPER CANAL-FHD (YURIMAGUAS)
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
@@ -334,9 +322,6 @@ https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w1287969026.m3u
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-FHD (CHOSICA)
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
-
-
-
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL TV-HD (TARAPOTO) [Alto Vol]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
@@ -392,8 +377,11 @@ https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 6-FHD (TACNA)
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 
+#EXTINF:-1 group-title="PERU" tvg-logo="", CONECTA2 TV-FHD (LIMA)
+https://servilive.com:3114/live/liveulive.m3u8
 
-
+#EXTINF:-1 group-title="PERU" tvg-logo="", ONDA DIGITAL-FHD (LIMA)
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w361429918.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", DREIKO TV-HD=>{NO 24 Horas}
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
@@ -416,23 +404,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080
 
 
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CONECTA2 TV-FHD (LIMA)
-https://servilive.com:3114/live/liveulive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", HOY NET TV-HD (LIMA)
-https://tv.portalexpress.es:3641/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", LA ABEJA NEWS-FHD (LIMA)
-http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", VISIÓN NOTICIAS PERU-FHD (LIMA)
-https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", ONDA DIGITAL-FHD (LIMA)
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w361429918.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", PH-CONFERENCIAS TV-FHD
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
 
 
@@ -786,3 +760,23 @@ https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/chunklist_w1007645285.m3u8
 
 
 
+#EXTINF:-1 group-title="NOO" tvg-logo="", TELE CLASICOS-HD
+https://tvdatta.com:3574/stream/play.m3u8
+
+#EXTINF:-1 group-title="NOO" tvg-logo="", EXPREZION 7-FHD | CL
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="NOO" tvg-logo="", CNC TV-FHD (CAJAMARCA)
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+#EXTINF:-1 group-title="NOO" tvg-logo="", HOY NET TV-HD (LIMA)
+https://tv.portalexpress.es:3641/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="NOO" tvg-logo="", LA ABEJA NEWS-FHD (LIMA)
+http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
+
+#EXTINF:-1 group-title="NOO" tvg-logo="", VISIÓN NOTICIAS PERU-FHD (LIMA)
+https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
+
+#EXTINF:-1 group-title="NOO" tvg-logo="", PH-CONFERENCIAS TV-FHD
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
