@@ -213,7 +213,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://srv2.zcast.com.br/sptv2/sptv2/chunklist_w2032106985.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", STV-FHD | CR
-https://tiquiciatv.duckdns.org/hls/livestv.m3u8
+https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", WOW TV-FHD | DO
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
@@ -249,7 +249,7 @@ https://stmv.streamingvip.click/primaveratv/primaveratv/chunklist_w605461967.m3u
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", KBO-FHD (QUILLABAMBA)
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CRTV-FHD (MOYOBAMBA)
 https://live.obslivestream.com/crtvmux/index.m3u8
