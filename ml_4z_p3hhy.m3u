@@ -279,7 +279,7 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TV TARAPOTO-FHD (TARAPOTO)
-https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/tvtarapotosd/chunks.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", GENIOS TV-FHD (MOYOBAMBA)
 https://live.obslivestream.com/geniostvmux/index.m3u8
