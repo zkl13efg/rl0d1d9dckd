@@ -210,7 +210,7 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", SPTV-FHD | AR
-https://srv6.zcast.com.br/sptv/sptv/chunklist_w1163478810.m3u8
+https://srv2.zcast.com.br/sptv2/sptv2/chunklist_w2032106985.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", STV-FHD | CR
 https://tiquiciatv.duckdns.org/hls/livestv.m3u8
@@ -222,7 +222,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", GEN TV-FHD | AR [Bajo Vol]
-https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
+https://inliveserver.com:1936/14056/14056/chunklist_w1368750050.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", VIWIX TV-FHD | CL [Bajo Vol]
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
@@ -234,7 +234,7 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL TV-FHD (PTO MALDON)
-https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+https://multimedia.tmcreativos.com:1936/raditropical/ngrp:raditropical_all/chunklist_w1424849166_b796000.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", UNITEL-FHD (HUANCAYO)
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/chunklist_w2005627974.m3u8
@@ -243,7 +243,7 @@ https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/chunklist_w2005627974.m3u
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", PRIMAVERA 15-FHD (MOQUEGUA)
-https://tv.portalexpress.es:3270/hybrid/play.m3u8
+https://stmv.streamingvip.click/primaveratv/primaveratv/chunklist_w605461967.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", MILLENIUM TV-HD (LAMAS)
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
@@ -300,7 +300,7 @@ https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 https://servilive.com:3531/live/tumpistvlive.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", SISTEMA 1-FHD (HUARAZ)
-https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
+https://paneltv.rstreaminghd.net:3042/live/sistema1tvlive.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", SUMAC TV-HD (LIMA)
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
@@ -313,6 +313,7 @@ https://servilive.com:3194/live/proyectatvlive.m3u8
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="", PLANETA TV-FHD (BAGUA)
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w1287969026.m3u8
+https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-FHD (CHOSICA)
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
@@ -325,6 +326,7 @@ https://tv.oyotunstream.com:1936/master/master/chunklist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", ANTARES TV-FHD (TARAPOTO) [Bajo Vol]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1605274745.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", LIMA LIVE TV-FHD [Bajo Vol]
 https://stmv.panel.grupolimalive.com/limalive/limalive/chunklist_w350238393.m3u8
@@ -342,7 +344,7 @@ https://tvdatta.com:3602/stream/play.m3u8
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", PERU CHANNEL-FHD (LIMA)
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/chunklist_w1017533291.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TV SISTEMAS-1-SD (CUSCO)
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/chunklist_w955671105.m3u8
@@ -357,7 +359,7 @@ https://eu1.servers10.com:8081/impactotv/index.m3u8
 https://live.obslivestream.com/planetatvmux/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", URANIO TV-FHD (YURIMAGUAS)
-https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 
 
 
