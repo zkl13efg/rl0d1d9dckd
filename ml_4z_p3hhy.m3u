@@ -388,6 +388,158 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080
 
 
 
+#EXTINF:-1 group-title="PERU" tvg-logo="", TVS RETRO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", RETRO PLUS TV 3 
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w471384928.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", CUBAVISIÓN INTERNACIONAL
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b596000.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", HISPAN TV
+https://live.presstv.ir/live/smil:live.smil/chunklist_w300336269_b644100_slen.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", CANAL 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1890723714_b1264000_sleng.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Run time
+https://stream.ads.ottera.tv/cl/b7de6b4c-3a7a-4745-a51b-7e9173d0c35e/854x480_1355200_2_f.m3u8	
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Run time  2
+https://stream.ads.ottera.tv/cl/4d915e0a-afad-4cd2-ba72-7ea7ba4ccf19/854x480_1355200_2_f.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Canela TV
+https://stream.ads.ottera.tv/cl/9e6a6e6b-500a-4d26-a6e0-c2e753a691b1/854x480_1355200_2_f.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Canela TV 2
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_480p.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Canela Clásicos
+https://stream.ads.ottera.tv/cl/7f1d1bfb-8ba4-4088-a601-1c2465c533fb/854x480_1355200_2_f.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Canela Cinema
+https://stream.ads.ottera.tv/cl/ae9fe708-86ae-40de-9933-a6806f7a4af4/854x480_550000_3_f.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Acción Mexicana
+https://stream.ads.ottera.tv/cl/b447f012-efe0-4c0d-8514-de9c321aebe9/854x480_550000_3_f.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Cine Romántico
+https://stream.ads.ottera.tv/cl/e8eb880c-9353-4830-b58f-e1e2e7b86a5c/854x480_550000_3_f.m3u8
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", RBM TV #2
+https://stmv.streamingvip.click/television/television/chunklist_w2037899845.m3u8
+
+
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/live-2000.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Color Vision Canal 9 (DOM)
+https://stream-01.sv4.dailymotion.com/sec(O-7bth6lxCIslucX64-RYxq2u-Lej9CSWW6qZ6pR6DSenLdICfK5cDQ2sSf8Yzcc)/dm/3/x7gy059/d/live-2.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1775185402.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Guaymate (ingles)
+https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w6575212.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Movie Fe
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w965827444.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Mundo de La Musica
+https://videostreaming.cloudserverlatam.com/8078/8078/chunklist_w55011919.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", RCKTV
+https://inliveserver.com:1936/11530/11530/chunklist_w923087666.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w589242246.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Melody Channel
+https://stream.mediaserver.com.co:8088/hls/MelodyChannel_src.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", HQM Remember
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/index-f3-v1-a1.m3u8
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", HQM Rock 
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/index-f4-v1-a1.m3u8
+
+
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Tv Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w981569361.m3u8		
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Ghost Tv (portugues)
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1125434579.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Tv Cine (portugues)
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w325541989.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TV CARIOCA.NET (portugues)
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w261704947.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Rede Clone (portugues)
+https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1915907725.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Tv Loading (portugues)
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w319839767.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Bons Tempos (portugues)
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1576464483.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TV CNB (portugues)
+https://livefocamundo.com:8081/tvcnb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Classique TV 2 (portugues)
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w141507252.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TV Teen Net (portugues)
+https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Tv Osório News (portugues)
+https://stmv1.srvif.com/classique/classique/chunklist_w1149996057.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Classique TV (portugues)
+https://stmv1.srvif.com/classique/classique/chunklist_w1453022860.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Web Tv Clássicos (portugues)
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Tv Aracati (portugues)
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8	
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Runtime (portugues)
+https://stream.ads.ottera.tv/cl/2a802ff6-5b50-4aa2-b4c5-d2fa69e3a9a2/1280x720_3071200_0_f.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", CLC - Cine (portugues)
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Tv Recorda (portugues)
+https://srv4.zcast.com.br/tvrecordacoeswebce/tvrecordacoeswebce/chunklist_w231805616.m3u8
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Gospel Movie (portugues)
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w869563477.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w481003081.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TV CEI 
+https://alanza.iptv2022.com/TV_CEI/tracks-v1a1/mono.m3u8
 
 
 
