@@ -151,10 +151,17 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM
 #EXTINF:-1 group-title="MUSICA" tvg-logo="", CALI-TV-HD | CO
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", IMPACTO TV-FHD (CAJAMARCA)
+https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="MUSICA" tvg-logo="", CONTROVERSIA TV-FHD (MOYOBAMBA)
 https://live.obslivestream.com/controversiamux/index.m3u8
 
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", CONECTA2 TV-FHD (LIMA)
+https://servilive.com:3114/live/liveulive.m3u8
 
+#EXTINF:-1 group-title="MUSICA" tvg-logo="", ONDA DIGITAL-FHD (LIMA)
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w361429918.m3u8
 
 
 
@@ -224,6 +231,7 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", GEN TV-FHD | AR [Bajo Vol]
 https://inliveserver.com:1936/14056/14056/chunklist_w1368750050.m3u8
 
+
 #EXTINF:-1 group-title="PERU" tvg-logo="", CATACAOS-SD (CATACAOS)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
@@ -287,9 +295,6 @@ https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", RADIO TV ORIENTE-FHD (YURIMAGUAS)
 https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", RTV TOTAL-HD (YURIMAGUAS)
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-
 #EXTINF:-1 group-title="PERU" tvg-logo="", TUMPIS-FHD (TUMBES)
 https://servilive.com:3531/live/tumpistvlive.m3u8
 
@@ -306,6 +311,7 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 https://servilive.com:3194/live/proyectatvlive.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", PLANETA TV-FHD (BAGUA)
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w1287969026.m3u8
 https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-FHD (CHOSICA)
@@ -332,25 +338,14 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", BELLA ASUNCION TV-FHD [Bajo Vol]
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", PERUANISIMA-FHD (LIMA)
-http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
-
 #EXTINF:-1 group-title="PERU" tvg-logo="", PERU CHANNEL-FHD (LIMA)
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/chunklist_w1017533291.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", TV SISTEMAS-1-SD (CUSCO)
-https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/chunklist_w955671105.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", ASIRITV-FHD (LIMA)
 https://video2.lhdserver.es/asiritv/live.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MUSICA IMPACTO TV-FHD (CAJAMARCA)
-https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="PERU" tvg-logo="", URANIO TV-FHD (YURIMAGUAS)
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 1-FHD (MOQUEGUA)
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
@@ -367,11 +362,7 @@ https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", TELESUR 6-FHD (TACNA)
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CONECTA2 TV-FHD (LIMA)
-https://servilive.com:3114/live/liveulive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", ONDA DIGITAL-FHD (LIMA)
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w361429918.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", DREIKO TV-HD=>{NO 24 Horas}
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
@@ -781,3 +772,17 @@ http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 
 #EXTINF:-1 group-title="NOO" tvg-logo="", PLANETA TV-SD (MOYOBAMBA)
 https://live.obslivestream.com/planetatvmux/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="NOO" tvg-logo="", RTV TOTAL-HD (YURIMAGUAS)
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
+#EXTINF:-1 group-title="NOO" tvg-logo="", PERUANISIMA-FHD (LIMA)
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+
+#EXTINF:-1 group-title="NOO" tvg-logo="", TV SISTEMAS-1-SD (CUSCO)
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/chunklist_w955671105.m3u8
+
+
+
+
+
