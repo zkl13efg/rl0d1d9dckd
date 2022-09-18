@@ -305,11 +305,8 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", PROYECTA TV-FHD (HUACHO)
 https://servilive.com:3194/live/proyectatvlive.m3u8
 
-
-
 #EXTINF:-1 group-title="PERU" tvg-logo="", PLANETA TV-FHD (BAGUA)
-https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w1287969026.m3u8
-
+https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV-FHD (CHOSICA)
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
@@ -321,7 +318,7 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://tv.oyotunstream.com:1936/master/master/chunklist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", ANTARES TV-FHD (TARAPOTO) [Bajo Vol]
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1605274745.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", LIMA LIVE TV-FHD [Bajo Vol]
 https://stmv.panel.grupolimalive.com/limalive/limalive/chunklist_w350238393.m3u8
