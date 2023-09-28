@@ -199,14 +199,6 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1828109926.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", WILLAX
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuQR-kEJfhI68u5UXtlWesfzOlQsHyc-UX9ZlT03wSvm)/dm/3/x7x4dgx/s/live-1.m3u8
 
-
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", NEO | ARGENTINA
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", ORBIT | REP. DOMINICANA
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
 #EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV (CHOSICA) | https://www.facebook.com/CentralTVperuLima
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/chunklist_w1226358543.m3u8
 
@@ -224,9 +216,6 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", ANTARES TV-FHD (TARAPOTO) | http://antarestvradio.com/tvonline.html
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1605274745.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", BELLA ASUNCION TV-FHD | https://www.tvbellaasuncion.com/
-https://tvdatta.com:3602/stream/play.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", URANIO TV-FHD (YURIMAGUAS) | https://uraniotv.pe/
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
@@ -261,66 +250,76 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", INKA TV-HD (ABANCAY) | https://inkatropical.pe/inka-tv/
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", WOW TV-FHD | EL SALVADOR
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", WOW TV-FHD | EL SALVADOR NEW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1113786120_b2000000_slen.m3u8
 
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", READY | REP DOMINICA
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w1240532779.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", PLANETA TV
+#EXTINF:-1 group-title="PERU" tvg-logo="", PLANETA TV (MOYOBAMBA)  | https://moyobamba.com/planetatv/
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", ASIRITV
+#EXTINF:-1 group-title="PERU" tvg-logo="", ASIRI TV (LIMA) | https://asiritv.pe/
 https://video2.lhdserver.es/asiritv/live.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", RN TV
-https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/chunklist_w166510034.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL TV-HD (TARAPOTO) [Alto Vol]
+#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL TV-HD (TARAPOTO) | https://radiotropical.pe/television/
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", DREIKO TV-HD=>{NO 24 Horas}
-https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
-
-
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", ANDES TV-FHD (SICUANI)
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", OASIS RTV
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", CONECTA2TV
-https://servilive.com:3114/live/liveulive.m3u8
-
-
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", ONDA DIGITAL
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w1463258102.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", NATIVA
-https://servilive.com:3449/live/mlecaroslive.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", TRIVU
-https://servilive.com:3244/live/trivutvlive.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELEMIX
-https://panel.dattalive.com:443/8068/8068/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", CR TV
+#EXTINF:-1 group-title="PERU" tvg-logo="", CR TV (MOLLOBAMBA) | https://www.facebook.com/crtvmoyobamba/
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 
 
 
 
 
+#EXTINF:-1 group-title="PERU" tvg-logo="", OASIS RTV (TRUJILLO) | https://oasisrtv.com/tv-en-vivo/
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", CONECTA2TV (LIMA) | https://conecta2peru.com/
+https://servilive.com:3114/live/liveulive.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", ONDA DIGITAL (LIMA) | https://www.ondadigital.pe/
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w1463258102.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", NATIVA TV  (LIMA) | https://www.facebook.com/nativanosconecta
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TRIVU TV (LIMA) | https://trivutv.com/envivo
+https://servilive.com:3244/live/trivutvlive.m3u8
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", ANDES TV-FHD (SICUANI)
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", DREIKO TV-HD=>{NO 24 Horas}
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", RN TV
+https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/chunklist_w166510034.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", BELLA ASUNCION TV-FHD | PPP | https://www.tvbellaasuncion.com/
+https://tvdatta.com:3602/stream/play.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", NEO | ARGENTINA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", ORBIT | REP. DOMINICANA
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELEMIX | ARGENTINA| https://latelemix.blogspot.com/
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", WOW TV-FHD | EL SALVADOR | https://wowelsalvador.com/
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", READY | REP DOMINICA | https://readytelevision.com/
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w1240532779.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TVS | GUATEMALA | https://www.playgt.net/tvsretro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
