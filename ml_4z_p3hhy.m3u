@@ -193,10 +193,10 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", EXITOSA-HD
+#EXTINF:-1 group-title="PERU" tvg-logo="", EXITOSA-HD (LIMA) | https://www.exitosanoticias.pe/tv/envivo
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1828109926.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", WILLAX
+#EXTINF:-1 group-title="PERU" tvg-logo="", WILLAX (LIMA) | https://willax.pe/en-vivo
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuQR-kEJfhI68u5UXtlWesfzOlQsHyc-UX9ZlT03wSvm)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV (CHOSICA) | https://www.facebook.com/CentralTVperuLima
@@ -208,22 +208,29 @@ https://hls.servidor.stream/storage/megatv.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", NOR SELVA TV (RIOJA) | https://radiotvnorselva.com/
 https://live.obslivestream.com/norselvatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", AUTENTICA TV-FHD (MOYOBAMBA) | https://autenticatv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", AUTENTICA TV (MOYOBAMBA) | https://autenticatv.pe/
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", GENIOS TV-FHD (MOYOBAMBA) | https://geniostv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", GENIOS TV (MOYOBAMBA) | https://geniostv.pe/
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", ANTARES TV-FHD (TARAPOTO) | http://antarestvradio.com/tvonline.html
+#EXTINF:-1 group-title="PERU" tvg-logo="", ANTARES TV (TARAPOTO) | http://antarestvradio.com/tvonline.html
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1605274745.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", URANIO TV-FHD (YURIMAGUAS) | https://uraniotv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", VIA ALTOMAYO (RIOJA) | https://www.viaaltomayotv.com/
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", ZONAFILM TV (CHACHAPOYAS) | https://xtv.pe/2023/06/16/zonafilm/
+https://vdo.grupolimalive.com:3372/live/xtvmaslive.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", X TV (CHACHAPOYAS) | https://xtv.pe/
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", URANIO TV (YURIMAGUAS) | https://uraniotv.pe/
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", BH TV-FHD (LIMA) | https://bhtv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", BH TV (LIMA) | https://bhtv.pe/
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
-
-
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", VINILOS-TV | CONTROVERSIA TV (MOYOBAMBA) | https://www.facebook.com/ControversiaMoyobamba/
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
@@ -231,26 +238,11 @@ https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", TELECOLOR TV (YURIMAGUAS) | https://telecolortv.pe/
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", X TV (CHACHAPOYAS) | https://xtv.pe/
-https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", ZONAFILM TV (CHACHAPOYAS) | https://xtv.pe/2023/06/16/zonafilm/
-https://vdo.grupolimalive.com:3372/live/xtvmaslive.m3u8
-
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", QT TV-FHD (CUSCO) | https://qosqotimes.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", QT TV (CUSCO) | https://qosqotimes.pe/
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", PRIMAVERA 15-FHD (MOQUEGUA) | https://www.radioprimaveratv.com.pe/
-https://stmv.streamingvip.click/primaveratv/primaveratv/chunklist_w605461967.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", VIA ALTOMAYO-FHD (RIOJA) | https://www.viaaltomayotv.com/
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", INKA TV-HD (ABANCAY) | https://inkatropical.pe/inka-tv/
+#EXTINF:-1 group-title="PERU" tvg-logo="", INKA TV (ABANCAY) | https://inkatropical.pe/inka-tv/
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
-
-
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", PLANETA TV (MOYOBAMBA)  | https://moyobamba.com/planetatv/
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
@@ -258,15 +250,25 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", ASIRI TV (LIMA) | https://asiritv.pe/
 https://video2.lhdserver.es/asiritv/live.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL TV-HD (TARAPOTO) | https://radiotropical.pe/television/
+#EXTINF:-1 group-title="PERU" tvg-logo="", TROPICAL TV (TARAPOTO) | https://radiotropical.pe/television/
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", ANDES TV (SICUANI-CUSCO) | https://www.radiosicuani.com/andestv/
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", DREIKO TV-HD=>{NO 24 Horas}
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", RN TV
+https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/chunklist_w166510034.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", PRIMAVERA 15 (MOQUEGUA) | https://www.radioprimaveratv.com.pe/
+https://stmv.streamingvip.click/primaveratv/primaveratv/chunklist_w605461967.m3u8
+
+
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", CR TV (MOLLOBAMBA) | https://www.facebook.com/crtvmoyobamba/
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", OASIS RTV (TRUJILLO) | https://oasisrtv.com/tv-en-vivo/
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
@@ -277,40 +279,37 @@ https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="", ONDA DIGITAL (LIMA) | https://www.ondadigital.pe/
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w1463258102.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", NATIVA TV  (LIMA) | https://www.facebook.com/nativanosconecta
+#EXTINF:-1 group-title="PERU" tvg-logo="", NATIVA TV (LIMA) | https://www.facebook.com/nativanosconecta
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TRIVU TV (LIMA) | https://trivutv.com/envivo
 https://servilive.com:3244/live/trivutvlive.m3u8
 
+#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 1-FHD (MOQUEGUA)
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 3-SD (MOLLENDO)
+https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 4-HD (AREQUIPA)
+https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 5-FHD (ILO)
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 6-FHD (TACNA)
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", ANDES TV-FHD (SICUANI)
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", DREIKO TV-HD=>{NO 24 Horas}
-https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", RN TV
-https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/chunklist_w166510034.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", BELLA ASUNCION TV-FHD | PPP | https://www.tvbellaasuncion.com/
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", NEO | ARGENTINA
+#EXTINF:-1 group-title="PERU" tvg-logo="", NEO | ARGENTINA | https://neotvdigital.com.ar/
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", ORBIT | REP. DOMINICANA
+#EXTINF:-1 group-title="PERU" tvg-logo="", ORBIT | REP. DOMINICANA | https://orbittv.net/
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TELEMIX | ARGENTINA| https://latelemix.blogspot.com/
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8
@@ -320,6 +319,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", READY | REP DOMINICA | https://readytelevision.com/
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w1240532779.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="", STV-FHD | COSTA RICA | https://sarapiquitvcr.com/
+https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", TVS | GUATEMALA | https://www.playgt.net/tvsretro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -344,36 +346,6 @@ https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", COMO ANTES | GUATEMALA | https://www.playgt.net
 https://cdn.streamhispanatv.net:3877/live/comoantestvlive.m3u8
-
-
-
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", STV-FHD | COSTA RICA
-https://lstv.duckdns.org:449/hls/stv.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 1-FHD (MOQUEGUA)
-https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 3-SD (MOLLENDO)
-https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 4-HD (AREQUIPA)
-https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 5-FHD (ILO)
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-
-#EXTINF:-1 group-title="PERU" tvg-logo="", TSUR 6-FHD (TACNA)
-https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
-
-
-
 
 
 
