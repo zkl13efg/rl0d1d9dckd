@@ -683,7 +683,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080
 
 
 
-https://www.corporaciontropicalpuerto.com/tv
+#EXTINF: https://www.corporaciontropicalpuerto.com/tv
 #EXTINF:-1, group-title="PERU" ,TROPICAL TV (PUERTO MALDON)
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
@@ -750,7 +750,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1, group-title="PERU" ,DAN-FHD | REP. DOMINICANA
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
-http://www.elsolradiotv.com/
+#EXTINF: http://www.elsolradiotv.com/
 #EXTINF:-1, group-title="PERU" ,EL SOL | ECUADOR
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 
@@ -762,15 +762,15 @@ https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w471384928.m3u8
 
 
-https://oktelevisionhd.com/
+#EXTINF: https://oktelevisionhd.com/
 #EXTINF:-1, group-title="PERU" ,OK TEVE
 https://stream.plixitv.live/oktv/oktv/chunklist_w1739536641.m3u8
 
-https://www.facebook.com/clipstvregional/
+#EXTINF: https://www.facebook.com/clipstvregional/
 #EXTINF:-1, group-title="PERU" ,CLIPSTV
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 
-https://radiostereotv.com/radio
+#EXTINF: https://radiostereotv.com/radio
 #EXTINF:-1, group-title="PERU" ,SOL ESTEREO TV
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/chunklist_w1127795793.m3u8
 
