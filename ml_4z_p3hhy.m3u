@@ -118,14 +118,52 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w589242246
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF: https://www.exitosanoticias.pe/tv/envivo
 #EXTINF:-1, group-title="PERU" ,EXITOSA-HD (LIMA)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1828109926.m3u8
 
 
-#EXTINF: https://willax.pe/en-vivo
-#EXTINF:-1, group-title="PERU" ,WILLAX (LIMA)
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmlgUQUT2LkUd5pnBA6UN--_Sab1Hq7EsGHlp-P1fBHIX)/dm/3/x7x4dgx/s/live-0.m3u8
+#EXTINF: https://www.atv.pe/envivo-atv
+#EXTINF:-1, group-title="PERU" ,ATV (LIMA)
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
+
+
+#EXTINF: https://www.atv.pe/envivo-atv
+#EXTINF:-1, group-title="PERU" ,ATV++ (LIMA)
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+
+
+#EXTINF: https://www.atv.pe/envivo-atv
+#EXTINF:-1, group-title="PERU" ,ATV SUR (AREQUIPA)
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+
+
+#EXTINF: https://www.latina.pe/tvenvivo
+#EXTINF:-1, group-title="PERU" ,LATINA (LIMA)
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+
+
+#EXTINF: https://soltvperu.com/en-vivo/
+#EXTINF:-1, group-title="PERU" ,SOL TV (TRUJILLO)
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
 
 #EXTINF: https://www.megatvarequipa.com/television-en-vivo/
@@ -296,11 +334,6 @@ https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
 #EXTINF: NN
 #EXTINF:-1, group-title="PERU" ,CLASICOS TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-
-
-#EXTINF: https://otv.pe/
-#EXTINF:-1, group-title="PERU" ,XX-ORIENTAL TV-HD (PUCALLPA)
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 
 
 #EXTINF: https://asiritv.pe/
@@ -629,6 +662,29 @@ https://vd01.streaminghd.net.ar:3983/multi_live/play.m3u8
 
 
 
+#EXTINF:-1, group-title="PERU" ,BR.-NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w981569361.m3u8		
+
+#EXTINF:-1, group-title="PERU" ,BR.-GOSPEL MOVIE
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w869563477.m3u8
+
+#EXTINF:-1, group-title="PERU" ,BR.-TELA VIVA
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w481003081.m3u8
+
+#EXTINF:-1, group-title="PERU" ,BR.-CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1453022860.m3u8
+
+#EXTINF:-1, group-title="PERU" ,BR.-WEB TV CLASSICOS
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
+
+
+
+
+
+#EXTINF: https://otv.pe/
+#EXTINF:-1, group-title="PERU" ,XX-ORIENTAL TV-HD (PUCALLPA)
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+
 
 #EXTINF: https://www.corporaciontropicalpuerto.com/tv
 #EXTINF:-1, group-title="PERU" ,TROPICAL TV 11(PUERTO MALDON)
@@ -785,20 +841,7 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playl
 
 
 
-#EXTINF:-1, group-title="BRASIL" ,BR-NOVA PLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w981569361.m3u8		
 
-#EXTINF:-1, group-title="BRASIL" ,BR-GOSPEL MOVIE
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w869563477.m3u8
-
-#EXTINF:-1, group-title="BRASIL" ,BR-TELA VIVA
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w481003081.m3u8
-
-#EXTINF:-1, group-title="BRASIL" ,BR-CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/chunklist_w1453022860.m3u8
-
-#EXTINF:-1, group-title="BRASIL" ,BR-WEB TV CLASSICOS
-https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
 
 
 
