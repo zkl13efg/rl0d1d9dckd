@@ -347,6 +347,41 @@ https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 
 
+#EXTINF: https://unitelperu.pe/
+#EXTINF:-1, group-title="PERU" ,UNITEL-TV (HUANCAYO)
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+
+
+#EXTINF: https://milleniumrtv.com/
+#EXTINF:-1, group-title="PERU" ,MILLENIUM TV (LAMAS)
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+
+#EXTINF: https://mastertvradio.com/tv
+#EXTINF:-1, group-title="PERU" ,MASTER TV (TARAPOTO)
+https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
+
+
+#EXTINF: https://tumpistv.pe/transmision-en-vivo-tumpis-tv/
+#EXTINF:-1, group-title="PERU" ,TUMPIS TV (TUMBES)
+https://servilive.com:3531/stream/play.m3u8
+
+
+#EXTINF: https://www.creotvperu.com/
+#EXTINF:-1, group-title="PERU" ,CREO TV (CAJAMARCA)
+https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
+
+
+#EXTINF: NN
+#EXTINF:-1, group-title="PERU" ,CLASICOS TV
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+
+#EXTINF: https://otv.pe/
+#EXTINF:-1, group-title="PERU" ,XX-ORIENTAL TV-HD (PUCALLPA)
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+
+
 #EXTINF: https://conecta2peru.com/
 #EXTINF:-1, group-title="PERU" ,CONECTA2TV (LIMA)
 https://servilive.com:3114/live/liveulive.m3u8
@@ -372,7 +407,7 @@ https://servilive.com:3244/live/trivutvlive.m3u8
 
 
 #EXTINF: https://www.tvbellaasuncion.com/
-#EXTINF:-1, group-title="PERU" ,BELLA ASUNCION | PPP
+#EXTINF:-1, group-title="PERU" ,BELLA ASUNCION | PPPPPPP
 https://tvdatta.com:3602/stream/play.m3u8
 
 
@@ -416,6 +451,16 @@ https://vdochile.com:3774/live/cnrhiawklive.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
+#EXTINF: http://www.gentvoficial.com/inicio/menuItem/3.html
+#EXTINF:-1, group-title="PERU" ,XX-GEN-FHD | ARGENTINA
+https://inliveserver.com:1936/14056/14056/chunklist_w1368750050.m3u8
+
+
+#EXTINF: https://vallevision.com.do/en-vivo/
+#EXTINF:-1, group-title="PERU" ,XX-VALLEVISION | REP. DOMINIC.
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+
 #EXTINF: X
 #EXTINF:-1, group-title="PERU" ,ÑUBLE-FHD | CHILE
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8?PlaylistM3UCL
@@ -434,6 +479,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF: BBB
 #EXTINF:-1, group-title="PERU" ,NEXT TV |
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
 
 
 
@@ -478,6 +524,13 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF: https://www.playgt.net/auroramediafilms
 #EXTINF:-1, group-title="PERU" ,AURORA MEDIA
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -791,62 +844,46 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playl
 
 
 
-#EXTINF: http://www.gentvoficial.com/inicio/menuItem/3.html
-#EXTINF:-1, group-title="NOOOBRASIL" ,XX-GEN-FHD | ARGENTINA
-https://inliveserver.com:1936/14056/14056/chunklist_w1368750050.m3u8
-
-#EXTINF: https://otv.pe/
-#EXTINF:-1, group-title="NOOOBRASIL" ,XX-ORIENTAL TV-HD (PUCALLPA)
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
-
-
-#EXTINF: https://unitelperu.pe/
-#EXTINF:-1, group-title="NOOOBRASIL" ,XX-UNITEL-FHD (HUANCAYO)
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-
-#EXTINF: https://milleniumrtv.com/
-#EXTINF:-1, group-title="NOOOBRASIL" ,XX-MILLENIUM TV-HD (LAMAS)
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
 
 
-#EXTINF: https://mastertvradio.com/tv
-#EXTINF:-1, group-title="NOOOBRASIL" ,XX-MASTER TV-HD (TARAPOTO)
-https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
-
-#EXTINF: https://vallevision.com.do/en-vivo/
-#EXTINF:-1, group-title="NOOOBRASIL" ,XX-VALLEVISION | REP. DOMINIC.
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
 
 
-#EXTINF: https://tumpistv.pe/transmision-en-vivo-tumpis-tv/
-#EXTINF:-1, group-title="NOOOBRASIL" ,XX-TUMPIS-FHD (TUMBES)
-https://servilive.com:3531/stream/play.m3u8
 
-#EXTINF: https://www.creotvperu.com/
-#EXTINF:-1, group-title="NOOOBRASIL" ,XX-CREO TV (CAJAMARCA)
-https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
 
-#EXTINF:-1, group-title="NOOOBRASIL" ,XX-CLASICOS TV-SD
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1, group-title="NOOOBRASIL" ,Nova Play
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, group-title="BRASIL" ,BR-NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w981569361.m3u8		
 
-#EXTINF:-1, group-title="NOOOBRASIL" ,Classique TV
-https://stmv1.srvif.com/classique/classique/chunklist_w1453022860.m3u8
-
-#EXTINF:-1, group-title="NOOOBRASIL" ,WEB TV CLÁSSICOS
-https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
-
-#EXTINF:-1, group-title="NOOOBRASIL" ,Gospel Movie
+#EXTINF:-1, group-title="BRASIL" ,BR-GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w869563477.m3u8
 
-#EXTINF:-1, group-title="NOOOBRASIL" ,Tela Viva
+#EXTINF:-1, group-title="BRASIL" ,BR-TELA VIVA
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w481003081.m3u8
 
+#EXTINF:-1, group-title="BRASIL" ,BR-CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1453022860.m3u8
 
+#EXTINF:-1, group-title="BRASIL" ,BR-WEB TV CLÁSSICOS
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
 
 
 
