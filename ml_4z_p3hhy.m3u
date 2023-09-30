@@ -193,49 +193,49 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", EXITOSA-HD (LIMA) | https://www.exitosanoticias.pe/tv/envivo
+#EXTINF:-1 group-title="PERU" tvg-logo="", EXITOSA-HD (LIMA) #EXTINF: https://www.exitosanoticias.pe/tv/envivo
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1828109926.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", WILLAX (LIMA) | https://willax.pe/en-vivo
+#EXTINF:-1 group-title="PERU" tvg-logo="", WILLAX (LIMA) #EXTINF: https://willax.pe/en-vivo
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuQR-kEJfhI68u5UXtlWesfzOlQsHyc-UX9ZlT03wSvm)/dm/3/x7x4dgx/s/live-1.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV (CHOSICA) | https://www.facebook.com/CentralTVperuLima
+#EXTINF:-1 group-title="PERU" tvg-logo="", CENTRAL TV (CHOSICA) #EXTINF: https://www.facebook.com/CentralTVperuLima
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/chunklist_w1226358543.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", MEGA TV (AREQUIPA) | https://www.megatvarequipa.com/television-en-vivo/
+#EXTINF:-1 group-title="PERU" tvg-logo="", MEGA TV (AREQUIPA) #EXTINF: https://www.megatvarequipa.com/television-en-vivo/
 https://hls.servidor.stream/storage/megatv.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", NOR SELVA TV (RIOJA) | https://radiotvnorselva.com/
+#EXTINF:-1 group-title="PERU" tvg-logo="", NOR SELVA TV (RIOJA) #EXTINF: https://radiotvnorselva.com/
 https://live.obslivestream.com/norselvatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", AUTENTICA TV (MOYOBAMBA) | https://autenticatv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", AUTENTICA TV (MOYOBAMBA) # https://autenticatv.pe/
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", GENIOS TV (MOYOBAMBA) | https://geniostv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", GENIOS TV (MOYOBAMBA) # https://geniostv.pe/
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", ANTARES TV (TARAPOTO) | http://antarestvradio.com/tvonline.html
+#EXTINF:-1 group-title="PERU" tvg-logo="", ANTARES TV (TARAPOTO) # http://antarestvradio.com/tvonline.html
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1605274745.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", VIA ALTOMAYO (RIOJA) | https://www.viaaltomayotv.com/
+#EXTINF:-1 group-title="PERU" tvg-logo="", VIA ALTOMAYO (RIOJA) # https://www.viaaltomayotv.com/
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", ZONAFILM TV (CHACHAPOYAS) | https://xtv.pe/2023/06/16/zonafilm/
+#EXTINF:-1 group-title="PERU" tvg-logo="", ZONAFILM TV (CHACHAPOYAS) # https://xtv.pe/2023/06/16/zonafilm/
 https://vdo.grupolimalive.com:3372/live/xtvmaslive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", X TV (CHACHAPOYAS) | https://xtv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", X TV (CHACHAPOYAS) #EXTINF:https://xtv.pe/
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", URANIO TV (YURIMAGUAS) | https://uraniotv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", URANIO TV (YURIMAGUAS) #EXTINF:https://uraniotv.pe/
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", BH TV (LIMA) | https://bhtv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", BH TV (LIMA) #EXTINF:https://bhtv.pe/
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", TELECOLOR TV (YURIMAGUAS) | https://telecolortv.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", TELECOLOR TV (YURIMAGUAS) #EXTINF:https://telecolortv.pe/
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="", QT TV (CUSCO) | https://qosqotimes.pe/
+#EXTINF:-1 group-title="PERU" tvg-logo="", QT TV (CUSCO) #EXTINF:https://qosqotimes.pe/
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="", INKA TV (ABANCAY) | https://inkatropical.pe/inka-tv/
