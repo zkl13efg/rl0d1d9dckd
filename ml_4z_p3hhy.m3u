@@ -1,141 +1,6 @@
 #EXTM3U x-tvg-url="" tv-test="PERU.m3u"
 
 
-
-#EXTINF:-1, group-title="MUSICA" ,PANAVISION-FHD | VE [hv]
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,RED FUEGO-FHD | CL
-https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,TOUR MUSIC-FHD | CR
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,RADIO SAN BORJA-FHD
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,OXIGENO-HD | VE  {P}
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,MUSIC TOP-HD | AR {P}
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,GLOBAL TV
-https://stmv.video.gmpro.top/global/global/playlist.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,RPC TV
-https://stmv.video.gmpro.top/rpctv/rpctv/playlist.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,OXIGENO
-https://stmv.video.gmpro.top/oxigeno/oxigeno/playlist.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,KPOP-HD
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,TIERRAMIA TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,TURBO MIXTV-SD (CAJAMARCA)
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,EEUU-SD
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,CALI-TV-HD | CO
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,TV POP
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,IMPACTO TV-FHD (CAJAMARCA)
-https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1, group-title="MUSICA" ,LA VOZ-HD | CL
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,RETROPLUS 1-FHD | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,RETROPLUS 2-FHD | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1, group-title="MUSICA" ,RECUERDOS HIP-HD | CL
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,FOXMIX-HD | CL
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,KARIBEÑA-HD | PE
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,HITS 360-FHD | DO
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,CANAL MUSIC 38 | CR
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,EXITOS | DO
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, group-title="MUSICA" ,The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w589242246.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF: https://www.exitosanoticias.pe/tv/envivo
 #EXTINF:-1, group-title="PERU" ,EXITOSA-HD (LIMA)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w1828109926.m3u8
@@ -365,6 +230,8 @@ https://servilive.com:3244/live/trivutvlive.m3u8
 
 
 
+
+
 #EXTINF: https://www.tvbellaasuncion.com/
 #EXTINF:-1, group-title="PERU" ,BELLA ASUNCION | PPPPPPP
 https://tvdatta.com:3602/stream/play.m3u8
@@ -438,6 +305,8 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF: BBB
 #EXTINF:-1, group-title="PERU" ,NEXT TV |
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+
 
 
 
@@ -598,6 +467,7 @@ https://cinesureno-freetv.amagi.tv/CineSureno-roku/master.m3u8
 
 
 
+
 #EXTINF: nnnnnnnnn
 #EXTINF:-1, group-title="PERU" ,LATINO KIDS |
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
@@ -637,6 +507,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080
 
 
 
+
+
 #EXTINF: nnnnnnnnn
 #EXTINF:-1, group-title="PERU" ,CARACOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
@@ -662,6 +534,9 @@ https://vd01.streaminghd.net.ar:3983/multi_live/play.m3u8
 
 
 
+
+
+
 #EXTINF:-1, group-title="PERU" ,BR.-NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w981569361.m3u8		
 
@@ -676,6 +551,8 @@ https://stmv1.srvif.com/classique/classique/chunklist_w1453022860.m3u8
 
 #EXTINF:-1, group-title="PERU" ,BR.-WEB TV CLASSICOS
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
+
+
 
 
 
@@ -812,39 +689,85 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playl
 
 
 
+#EXTINF:-1, group-title="MUSICA" ,PANAVISION-FHD | VE [hv]
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, group-title="MUSICA" ,RED FUEGO-FHD | CL
+https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, group-title="MUSICA" ,TOUR MUSIC-FHD | CR
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, group-title="MUSICA" ,RADIO SAN BORJA-FHD
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1, group-title="MUSICA" ,OXIGENO-HD | VE  {P}
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, group-title="MUSICA" ,MUSIC TOP-HD | AR {P}
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, group-title="MUSICA" ,GLOBAL TV
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+
+#EXTINF:-1, group-title="MUSICA" ,RPC TV
+https://stmv.video.gmpro.top/rpctv/rpctv/playlist.m3u8
+
+#EXTINF:-1, group-title="MUSICA" ,OXIGENO
+https://stmv.video.gmpro.top/oxigeno/oxigeno/playlist.m3u8
+
+#EXTINF:-1, group-title="MUSICA" ,KPOP-HD
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
+#EXTINF:-1, group-title="MUSICA" ,TIERRAMIA TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="MUSICA" ,TURBO MIXTV-SD (CAJAMARCA)
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, group-title="MUSICA" ,EEUU-SD
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, group-title="MUSICA" ,CALI-TV-HD | CO
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, group-title="MUSICA" ,TV POP
+https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, group-title="MUSICA" ,IMPACTO TV-FHD (CAJAMARCA)
+https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
 
 
 
 
+#EXTINF:-1, group-title="MUSICA" ,LA VOZ-HD | CL
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
+#EXTINF:-1, group-title="MUSICA" ,RETROPLUS 1-FHD | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1, group-title="MUSICA" ,RETROPLUS 2-FHD | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
+#EXTINF:-1, group-title="MUSICA" ,RECUERDOS HIP-HD | CL
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, group-title="MUSICA" ,FOXMIX-HD | CL
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, group-title="MUSICA" ,KARIBEÑA-HD | PE
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, group-title="MUSICA" ,HITS 360-FHD | DO
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, group-title="MUSICA" ,CANAL MUSIC 38 | CR
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, group-title="MUSICA" ,EXITOS | DO
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, group-title="MUSICA" ,The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w589242246.m3u8
 
 
