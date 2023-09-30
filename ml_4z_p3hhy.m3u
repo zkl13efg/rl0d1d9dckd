@@ -257,6 +257,24 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF: 
+#EXTINF:-1, group-title="PERU" ,XXX (YYY)
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF: https://www.cnccajamarca.com/
+#EXTINF:-1, group-title="PERU" ,CNC DIGITAL (CAJAMARCA)
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+
+
+
+
+
 #EXTINF: https://qosqotimes.pe/
 #EXTINF:-1, group-title="PERU" ,QT TV (CUSCO)
 https://servilive.com:3753/live/qosqotimeslive.m3u8
@@ -345,6 +363,7 @@ https://servilive.com:3244/live/trivutvlive.m3u8
 
 
 
+
 #EXTINF: https://www.tvbellaasuncion.com/
 #EXTINF:-1, group-title="PERU" ,BELLA ASUNCION | PPP
 https://tvdatta.com:3602/stream/play.m3u8
@@ -381,12 +400,12 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 
 #EXTINF: BBB
-#EXTINF:-1, group-title="PERU" ,PLANET PELI
+#EXTINF:-1, group-title="PERU" ,PLANETA TV
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 
 #EXTINF: BBB
-#EXTINF:-1, group-title="PERU" ,PLANET KIDS
+#EXTINF:-1, group-title="PERU" ,PLANETA KIDS
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
 
@@ -400,18 +419,13 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 
-
-#EXTINF: https://xtrematv.com/-costa rica
+#EXTINF: https://xtrematv.com/-COSTA RICA
 #EXTINF:-1, group-title="PERU" ,MULTIVISION
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
 #EXTINF: xtrematv
 #EXTINF:-1, group-title="PERU" ,MEGACINE
 https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
-
-#EXTINF: xtrematv
-#EXTINF:-1, group-title="PERU" ,PLANETA TV
-https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
 
 #EXTINF: xtrematv
 #EXTINF:-1, group-title="PERU" ,CINE ACCION
@@ -444,7 +458,6 @@ https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
 #EXTINF: xtrematv
 #EXTINF:-1, group-title="PERU" ,LATINO
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-
 
 #EXTINF: xtrematv
 #EXTINF:-1, group-title="PERU" ,SERIE-1
@@ -482,46 +495,45 @@ https://video20.klm99.com:3558/hybrid/play.m3u8
 
 
 
-#EXTINF: https://www.playgt.net/tvsretro
-#EXTINF:-1, group-title="PERU" ,TVS | GUATEMALA
+#EXTINF: https://www.playgt.net/tvsretro - GUATEMALA
+#EXTINF:-1, group-title="PERU" ,TVS
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF: https://www.playgt.net/comoantestv
-#EXTINF:-1, group-title="PERU" ,COMO ANTES | GUATEMALA
+#EXTINF:-1, group-title="PERU" ,COMO ANTES
 https://cdn.streamhispanatv.net:3877/live/comoantestvlive.m3u8
 
 #EXTINF: https://www.playgt.net/soltv
-#EXTINF:-1, group-title="PERU" ,SOL-TV | GUATEMALA
+#EXTINF:-1, group-title="PERU" ,SOL-TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 #EXTINF: https://www.playgt.net/guatv
-#EXTINF:-1, group-title="PERU" ,GUA-TV | GUATEMALA
+#EXTINF:-1, group-title="PERU" ,GUA-TV
 https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 
 #EXTINF: https://www.playgt.net/barbetv
-#EXTINF:-1, group-title="PERU" ,BARBE-TV | GUATEMALA
+#EXTINF:-1, group-title="PERU" ,BARBE-TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 #EXTINF: https://www.playgt.net/gtv
-#EXTINF:-1, group-title="PERU" ,GTV | GUATEMALA
+#EXTINF:-1, group-title="PERU" ,GTV
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
 
 #EXTINF: https://www.playgt.net/yepotv
-#EXTINF:-1, group-title="PERU" ,CANAL-35 | GUATEMALA
+#EXTINF:-1, group-title="PERU" ,CANAL-35
 https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
 #EXTINF: https://www.playgt.net/fullchannel
-#EXTINF:-1, group-title="PERU" ,FULL CHANNEL | GUATEMALA
+#EXTINF:-1, group-title="PERU" ,FULL CHANNEL
 https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
-
-#EXTINF: https://www.playgt.net/auroramediafilms
-#EXTINF:-1, group-title="PERU" ,AURORA MEDIA | GUATEMALA
-https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
 #EXTINF: https://www.playgt.net/totovision
 #EXTINF:-1, group-title="PERU" ,TOTO-VISION | GUATEMALA
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
+#EXTINF: https://www.playgt.net/auroramediafilms
+#EXTINF:-1, group-title="PERU" ,AURORA MEDIA
+https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
 
 
@@ -531,28 +543,30 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,CANELA 1 TV
+#EXTINF:-1, group-title="PERU" ,CARACOLA TV -=+|+=-
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF: nnnnnnnnn
+#EXTINF:-1, group-title="PERU" ,CANELA 1 -=+|+=-
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_480p.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,TOP CINE
+#EXTINF:-1, group-title="PERU" ,TOP CINE -=+|+=-
 https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_4.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,TU CINE 2
+#EXTINF:-1, group-title="PERU" ,TU CINE 2 -=+|+=-
 https://tucineeurope-samsungspain.amagi.tv/TuCineEurope-Samsung/master.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,HORRORFY
+#EXTINF:-1, group-title="PERU" ,HORRORFY -=+|+=-
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,SUREÑO
+#EXTINF:-1, group-title="PERU" ,SUREÑO -=+|+=-
 https://cinesureno-freetv.amagi.tv/CineSureno-roku/master.m3u8
 
-#EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,CARACOLA TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
 
 
 
@@ -560,11 +574,11 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,DREIKO TV-HD=>{NO 24 Horas}
+#EXTINF:-1, group-title="PERU" ,DREIKO-1
 https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,DREIKO-2 TV
+#EXTINF:-1, group-title="PERU" ,DREIKO-2
 https://cloudvideo.servers10.com:8081/8138/playlist.m3u8
 
 #EXTINF: nnnnnnnnn
@@ -605,72 +619,63 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080
 
 
 
-#EXTINF:-1, group-title="PERU" ,DAN-FHD | REP. DOMINICANA
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
+
+#EXTINF: https://tvabierta.weebly.com/bayres-tv.html
 #EXTINF:-1, group-title="PERU" ,BAYRES | ARGENTINA
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1, group-title="PERU" ,EL SOL | ECUADOR
-http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 
+#EXTINF: X
 #EXTINF:-1, group-title="PERU" ,ÑUBLE-FHD | CHILE
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, group-title="PERU" ,CNC DIGITAL
-https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
 
+#EXTINF: https://canal8tv.pe/
 #EXTINF:-1, group-title="PERU" ,CATACAOS-SD
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
+
+#EXTINF: https://megatvjaen.pe/tv-en-vivo/
 #EXTINF:-1, group-title="PERU" ,MEGA TV-FHD (JAEN)
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:-1, group-title="PERU" ,RETRO PLUS TV 
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w471384928.m3u8
 
+https://www.corporaciontropicalpuerto.com/tv
 #EXTINF:-1, group-title="PERU" ,TROPICAL TV (PUERTO MALDON)
-https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/chunklist_w710275455.m3u8
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
+
+#EXTINF: X
 #EXTINF:-1, group-title="PERU" ,TROPICAL TV-FHD (PTO MALDON)
 https://multimedia.tmcreativos.com:1936/raditropical/ngrp:raditropical_all/chunklist_w1424849166_b796000.m3u8
 
+
+#EXTINF: https://supercanal.com.pe/
 #EXTINF:-1, group-title="PERU" ,SUPER TV-FHD (AMAZONAS)
-https://tvdatta.com:3517/live/kachorrotvlive.m3u8
+https://live.obslivestream.com/supercanal/index.m3u8
 
-#EXTINF:-1, group-title="PERU" ,OK TEVE
-https://stream.plixitv.live/oktv/oktv/chunklist_w1739536641.m3u8
 
-#EXTINF:-1, group-title="PERU" ,CLIPSTV
-https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
-
+#EXTINF: http://www.exprezion.cl/
 #EXTINF:-1, group-title="PERU" ,EXPRESION TV
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
-
-#EXTINF:-1, group-title="PERU" ,SOL ESTEREO TV
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/chunklist_w1127795793.m3u8
+https://vdochile.com:3774/live/cnrhiawklive.m3u8
 
 
-#EXTINF:-1, group-title="PERU" ,DMJ TV
-https://v4.tustreaming.cl:/s1tv/index.m3u8
+#EXTINF: https://www.dmjsur.com/tv/
+#EXTINF:-1, group-title="PERU" ,DMJ TV1
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
-#EXTINF:-1, group-title="PERU" ,BUTACA TV
-https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-
+#EXTINF: https://www.dmjsur.com/tv/
+#EXTINF:-1, group-title="PERU" ,DMJ TV2
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1453949590.m3u8
 
 
 
-#EXTINF:-1, group-title="PERU" ,TU CINE 1 TV
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284193
 
-#EXTINF:-1, group-title="PERU" ,TOP CINE
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=608b7094a09205002da4f291
 
-#EXTINF:-1, group-title="PERU" ,CINE REAL
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-latam-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=608b7095a09205002da4f295
 
-#EXTINF:-1, group-title="PERU" ,JUNTOS TV
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=60240f57676235002df19f49
+
+
 
 
 
