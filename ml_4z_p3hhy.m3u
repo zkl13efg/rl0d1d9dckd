@@ -543,27 +543,27 @@ https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,CARACOLA TV -=+|+=-
+#EXTINF:-1, group-title="PERU" ,CARACOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,CANELA 1 -=+|+=-
+#EXTINF:-1, group-title="PERU" ,CANELA 1
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_480p.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,TOP CINE -=+|+=-
+#EXTINF:-1, group-title="PERU" ,TOP CINE
 https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_4.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,TU CINE 2 -=+|+=-
+#EXTINF:-1, group-title="PERU" ,TU CINE 2
 https://tucineeurope-samsungspain.amagi.tv/TuCineEurope-Samsung/master.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,HORRORFY -=+|+=-
+#EXTINF:-1, group-title="PERU" ,HORRORFY
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF: nnnnnnnnn
-#EXTINF:-1, group-title="PERU" ,SUREÑO -=+|+=-
+#EXTINF:-1, group-title="PERU" ,SUREÑO
 https://cinesureno-freetv.amagi.tv/CineSureno-roku/master.m3u8
 
 
