@@ -688,7 +688,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
 
-#EXTINF: X
+#EXTINF: NNNN
 #EXTINF:-1, group-title="PERU" ,TROPICAL TV-FHD (PTO MALDON)
 https://multimedia.tmcreativos.com:1936/raditropical/ngrp:raditropical_all/chunklist_w1424849166_b796000.m3u8
 
@@ -882,7 +882,7 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w481003081.m3u8
 #EXTINF:-1, group-title="BRASIL" ,BR-CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1453022860.m3u8
 
-#EXTINF:-1, group-title="BRASIL" ,BR-WEB TV CLÁSSICOS
+#EXTINF:-1, group-title="BRASIL" ,BR-WEB TV CLASSICOS
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
 
 
