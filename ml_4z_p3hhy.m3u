@@ -77,48 +77,47 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
 
 #EXTINF: https://unitelperu.pe/
-#EXTINF:-1 group-title="PERU" ,UNITEL-TV (HUANCAYO)
+#EXTINF:-1 group-title="PERU" ,NO24H= UNITEL-TV (HUANCAYO)
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
 
 
 
-#EXTINF: xtrematv
-#EXTINF:-1 group-title="PERU" ,MEGACINE TV - EXTREM
+#EXTINF: https://xtrematv.com/?page_id=744
+#EXTINF:-1 group-title="PERU" ,MEGACINE -- TR
 https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
 
 #EXTINF: xtrematv
-#EXTINF:-1 group-title="PERU" ,CINE ACCION TV - EXTREM
+#EXTINF:-1 group-title="PERU" ,CINE ACCION -- TR
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF: xtrematv
-#EXTINF:-1 group-title="PERU" ,SUSPENSO TV - EXTREM
+#EXTINF:-1 group-title="PERU" ,SUSPENSO TV -- TR
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 
 #EXTINF: xtrematv
-#EXTINF:-1 group-title="PERU" ,TERROR TV - EXTREM
+#EXTINF:-1 group-title="PERU" ,TERROR TV -- TR
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 
 #EXTINF: xtrematv
-#EXTINF:-1 group-title="PERU" ,COMEDIA TV - EXTREM
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-
-#EXTINF: xtrematv
-#EXTINF:-1 group-title="PERU" ,FAMILIAR TV - EXTREM
+#EXTINF:-1 group-title="PERU" ,FAMILIAR TV -- TR
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 
 #EXTINF: xtrematv
-#EXTINF:-1 group-title="PERU" ,EUROPEO TV - EXTREM
+#EXTINF:-1 group-title="PERU" ,COMEDIA TV -- TR
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF: xtrematv
+#EXTINF:-1 group-title="PERU" ,EUROPEO TV -- TR
 https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
 
 #EXTINF: xtrematv
-#EXTINF:-1 group-title="PERU" ,LATINO TV - EXTREM
+#EXTINF:-1 group-title="PERU" ,LATINO TV -- TR
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 
 #EXTINF: xtrematv
-#EXTINF:-1 group-title="PERU" ,SERIE-1 TV - EXTREM
+#EXTINF:-1 group-title="PERU" ,SERIE-1 TV -- TR
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-
 
 
 #EXTINF: https://orbittv.net/
@@ -131,9 +130,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
-#EXTINF: https://sarapiquitvcr.com/
-#EXTINF:-1 group-title="PERU" ,STV -- COSTA RICA
-https://lstv.duckdns.org:449/hls/stv.m3u8
+
 
 
 #EXTINF: https://canalesdominicanos.live/dantv/
@@ -250,7 +247,6 @@ https://cloudvideo.servers10.com:8081/8138/playlist.m3u8
 #EXTINF: https://www.dreikotv.com/
 #EXTINF:-1 group-title="PERU" ,DREIKO TV 2 -- PANAMA
 https://wifiexpert-1.energeek.cl/dreikotv/canal-1/playlist.m3u8
-https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
 
 
@@ -524,6 +520,32 @@ https://stmv1.srvif.com/classique/classique/chunklist_w1453022860.m3u8
 
 
 
+
+
+#EXTINF: nnnnnnnnn
+#EXTINF:-1 group-title="PERU" ,CANELA 1 -PUBLICIDAD-
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_480p.m3u8
+
+#EXTINF: nnnnnnnnn
+#EXTINF:-1 group-title="PERU" ,TOP CINE -PUBLICIDAD-
+https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_4.m3u8
+
+#EXTINF: nnnnnnnnn
+#EXTINF:-1 group-title="PERU" ,TU CINE 2 -PUBLICIDAD-
+https://tucineeurope-samsungspain.amagi.tv/TuCineEurope-Samsung/master.m3u8
+
+#EXTINF: nnnnnnnnn
+#EXTINF:-1 group-title="PERU" ,HORRORFY -PUBLICIDAD-
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF: nnnnnnnnn
+#EXTINF:-1 group-title="PERU" ,SUREÑO -PUBLICIDAD-
+https://cinesureno-freetv.amagi.tv/CineSureno-roku/master.m3u8
+
+
+
+
+
 #EXTINF: https://www.playgt.net/fullchannel
 #EXTINF:-1 group-title="PERU" ,PEND= FULL CHANNEL - GUAT
 https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
@@ -571,6 +593,10 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF: http://www.elsolradiotv.com/
 #EXTINF:-1 group-title="PERU" ,PEND= EL SOL -- ECUADOR
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+
+#EXTINF: https://sarapiquitvcr.com/
+#EXTINF:-1 group-title="PERU" ,PEND= STV -- COSTA RICA
+https://lstv.duckdns.org:449/hls/stv.m3u8
 
 
 
