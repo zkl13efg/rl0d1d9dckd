@@ -227,15 +227,15 @@ https://vdochile.com:3774/live/cnrhiawklive.m3u8
 
 
 #EXTINF: https://www.playgt.net/fullchannel
-#EXTINF:-1 group-title="MUSICA" ,V2 FULL CHANNEL - GUAT
+#EXTINF:-1 group-title="PERU" ,V2 FULL CHANNEL - GUAT
 https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
 
 #EXTINF: NN
-#EXTINF:-1 group-title="MUSICA" ,V2 CANAL 10 NORTEVISION - ARGENTINA
+#EXTINF:-1 group-title="PERU" ,V2 CANAL 10 NORTEVISION - ARGENTINA
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
 
 #EXTINF: NN
-#EXTINF:-1 group-title="MUSICA" ,V2 ED DIGITAL-CHILE - TR
+#EXTINF:-1 group-title="PERU" ,V2 ED DIGITAL-CHILE - TR
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 
 
