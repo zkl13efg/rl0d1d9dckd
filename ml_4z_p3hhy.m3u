@@ -17,8 +17,7 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 
 #EXTINF: https://www.atv.pe/envivo-atv
 #EXTINF:-1 group-title="PERU" ,ATV++ (LIMA)
-"
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas2/chunks.m3u8"
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas2/chunks.m3u8
 
 
 #EXTINF: https://www.atv.pe/envivo-atv
@@ -429,7 +428,7 @@ https://servilive.com:3079/live/cdnatvlive.m3u8
 
 
 #EXTINF: https://visionsurtv.pe/tv-en-vivo/
-#EXTINF:-1 group-title="PERU" ,VISION SUR **TOKEN** (AREQUIPA)
+#EXTINF:-1 group-title="PERU" ,VISION SUR -TOKEN- (AREQUIPA)
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/chunks.m3u8?nimblesessionid=7092735
 
 
@@ -474,7 +473,7 @@ https://inliveserver.com:1936/10044/10044/chunklist_w1134466276.m3u8
 
 
 #EXTINF: https://www.distro.tv/live/juntos/
-#EXTINF:-1 group-title="PERU" ,JUNTOS TV **TOKEN** (NN)
+#EXTINF:-1 group-title="PERU" ,JUNTOS TV -TOKEN- (NN)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/e441f97d-0e61-46d0-a314-2045bf61c0d3/4.m3u8
 
 
