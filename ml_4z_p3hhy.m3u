@@ -474,8 +474,7 @@ https://inliveserver.com:1936/10044/10044/chunklist_w1134466276.m3u8
 
 
 #EXTINF: https://www.distro.tv/live/juntos/
-"#EXTINF:-1 group-title=""PERU"" ,https://www.distro.tv/live/juntos/
-JUNTOS TV **TOKEN** (NN)"
+#EXTINF:-1 group-title="PERU" ,JUNTOS TV **TOKEN** (NN)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/e441f97d-0e61-46d0-a314-2045bf61c0d3/4.m3u8
 
 
