@@ -6,13 +6,18 @@ https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/index.fmp4.m3u8
 
 
 #EXTINF: https://www.atv.pe/envivo-atv
-#EXTINF:-1 group-title="PERU" ,ATV (LIMA) BLOKEO
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV2/chunks.m3u8
+#EXTINF:-1 group-title="PERU" ,ATV++ (LIMA)
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas2/chunks.m3u8
+
+
+#EXTINF: https://willax.pe/en-vivo
+#EXTINF:-1 group-title="PERU" ,WILLAX (LIMA)
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmprVvQuyeh9Uua8qyKFiyci2N3_p2_tKo6Fat-Aiulxt)/dm/3/x7x4dgx/s/live-1.m3u8
 
 
 #EXTINF: https://www.atv.pe/envivo-atv
-#EXTINF:-1 group-title="PERU" ,ATV++ (LIMA)
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas2/chunks.m3u8
+#EXTINF:-1 group-title="PERU" ,ATV (LIMA) BLOKEO
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV2/chunks.m3u8
 
 
 #EXTINF: https://planetatv.cl/planetatv-movie/
@@ -45,24 +50,9 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w891792876.m3u8
 
 
-#EXTINF: https://doblectelevision.com/
-#EXTINF:-1 group-title="PERU" ,DOBLE C TV (LIMA)
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
-
 #EXTINF: https://cincotv.com.ar/cinco-tv-en-vivo/
 #EXTINF:-1 group-title="PERU" ,CANAL 5 TIGRE - ARG
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
-
-#EXTINF: https://unitelperu.pe/
-#EXTINF:-1 group-title="PERU" ,UNITEL NO24H (HUANCAYO)
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-
-
-#EXTINF: https://moyobamba.com/planetatv/
-#EXTINF:-1 group-title="PERU" ,PLANETA NO24H  (MOYOBAMBA)
-https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: https://xtv.pe/canal-zona-film/
@@ -83,6 +73,16 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF: https://readytelevision.com/
 #EXTINF:-1 group-title="PERU" ,READY - REP DOM
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w1240532779.m3u8
+
+
+#EXTINF: https://unitelperu.pe/
+#EXTINF:-1 group-title="PERU" ,UNITEL NO24H (HUANCAYO)
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+
+
+#EXTINF: https://moyobamba.com/planetatv/
+#EXTINF:-1 group-title="PERU" ,PLANETA NO24H  (MOYOBAMBA)
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
 
 
@@ -139,11 +139,6 @@ https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
 
-#EXTINF: https://www.telelima.pe/
-#EXTINF:-1 group-title="PERU" ,TELE LIMA 
-https://mserver.latincable.net/TeleLima/tracks-v1a1/mono.m3u8
-
-
 #EXTINF: https://radiovamisa.tv/tv/
 #EXTINF:-1 group-title="PERU" ,VAMISA (LIMA)
 https://inliveserver.com:1936/10044/10044/chunklist_w1134466276.m3u8
@@ -184,11 +179,6 @@ https://a.cdni.live/peruchanel/peruchanel/chunklist_w1065806244.m3u8
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
 
-#EXTINF: https://canalesdominicanos.live/dantv/
-#EXTINF:-1 group-title="PERU" ,TELESIGLO NO24H - REP. DOM
-https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
-
-
 #EXTINF: http://www.elsolradiotv.com/
 #EXTINF:-1 group-title="PERU" ,EL SOL NO24H *pausado* - ECUADOR
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
@@ -207,11 +197,6 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF: https://www.vivatvonline.com/
 #EXTINF:-1 group-title="PERU" ,VIVA NO24H TV (YURIMAGUAS)
 https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: https://latelemix.blogspot.com/
-#EXTINF:-1 group-title="PERU" ,TELEMIX - ARG
-https://panel.dattalive.com/8068/8068/playlist.m3u8
 
 
 #EXTINF: https://telecolortv.pe/
@@ -242,11 +227,6 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF: https://radiusac.pe/
 #EXTINF:-1 group-title="PERU" ,UTV – UCAYALINA
 https://video.agenciastreaming.com:3959/live/utvlive.m3u8
-
-
-#EXTINF: https://bhtv.pe/
-#EXTINF:-1 group-title="PERU" ,BH TV (LIMA)
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
 
 #EXTINF: NN
@@ -325,55 +305,29 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 
-#EXTINF: https://www.trivutv.com/envivo
-#EXTINF:-1 group-title="PERU" ,TRIVU TV (LIMA)
-https://www.chasquirouter.com/salida/sd/trivu.m3u8
+#EXTINF: https://www.telelima.pe/
+#EXTINF:-1 group-title="PERU" ,TELE LIMA 
+https://mserver.latincable.net/TeleLima/tracks-v1a1/mono.m3u8
 
 
-#EXTINF: https://www.cablevisiontv.pe/en-vivo/
-#EXTINF:-1 group-title="PERU" ,CABLE VISION  - LIMA
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF: https://doblectelevision.com/
+#EXTINF:-1 group-title="PERU" ,DOBLE C TV (LIMA)
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
 
-#EXTINF: https://xtv.pe/
-#EXTINF:-1 group-title="PERU" ,XTV (LIMA)
-https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
+#EXTINF: https://www.megatvarequipa.com/television-en-vivo/
+#EXTINF:-1 group-title="PERU" ,MEGA TV NO24H (AREQUIPA)
+https://hls.servidor.stream/storage/megatv.m3u8
 
 
-#EXTINF: https://milleniumrtv.com/
-#EXTINF:-1 group-title="PERU" ,MILLENIUM TV NO24H (LAMAS)
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF: https://canalesdominicanos.live/dantv/
+#EXTINF:-1 group-title="PERU" ,TELESIGLO NO24H - REP. DOM
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 
 
-#EXTINF: NN  
-#EXTINF:-1 group-title="PERU" ,TELEALTURA - REP DOM
-https://5790d294af2dc.streamlock.net/telealtura/telealtura/chunklist_w200120476.m3u8
-
-
-#EXTINF: NN
-#EXTINF:-1 group-title="PERU" ,MICROVISION TV - REP. DOM
-https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w407153356.m3u8
-
-
-#EXTINF: NN
-#EXTINF:-1 group-title="PERU" ,CANAL 10 - ARG
-https://panel.dattalive.com/8204/8204/chunklist_w2072714718.m3u8
-
-
-#EXTINF: NN
-#EXTINF:-1 group-title="PERU" ,CANELA TV
-https://ov.ottera.tv/channels/cnm_ctm_ro/master.m3u8
-
-
-#EXTINF: https://autenticatv.pe/
-#EXTINF:-1 group-title="PERU" ,AUTENTICA TV (MOYOBAMBA)
-https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-
-#EXTINF: https://www.vivatvonline.com/tv-en-vivo
-#EXTINF:-1 group-title="PERU" ,VIVA TV  sin video (YURIMAGUAS)
-https://live.obslivestream.com/vivatv/tracks-v3a1/mono.m3u8
-
+#EXTINF: https://bhtv.pe/
+#EXTINF:-1 group-title="PERU" ,BH TV (LIMA)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
 
 
 
@@ -418,11 +372,6 @@ https://videohd.live:19360/8016/8016.m3u8
 https://tgn.bozztv.com/ssh101/ssh101/teleclasik/playlist.m3u8
 
 
-#EXTINF: https://www.megatvarequipa.com/television-en-vivo/
-#EXTINF:-1 group-title="PERU" ,MEGA TV NO24H (AREQUIPA)
-https://hls.servidor.stream/storage/megatv.m3u8
-
-
 
 
 
@@ -451,6 +400,16 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF: https://conecta2peru.com/
 #EXTINF:-1 group-title="PERU" ,CONECTA2 TV (LIMA)
 https://servilive.com:3114/live/liveulive.m3u8
+
+
+#EXTINF: https://www.trivutv.com/envivo
+#EXTINF:-1 group-title="PERU" ,TRIVU TV (LIMA)
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+
+
+#EXTINF: https://www.cablevisiontv.pe/en-vivo/
+#EXTINF:-1 group-title="PERU" ,CABLE VISION  - LIMA
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 
 #EXTINF: https://www.ondadigital.pe/
@@ -606,7 +565,7 @@ https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 
 
 #EXTINF: https://xtv.pe/xtvcumbia/
-#EXTINF:-1 group-title="MUSICA" ,X-CUMBIA (LIMA)
+#EXTINF:-1 group-title="MUSICA" ,M-X-CUMBIA (LIMA)
 https://vdo.panelchs.com:3750/live/vdo82376947328live.m3u8
 
 
@@ -623,11 +582,6 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1781359830.m
 #EXTINF: https://oasisrtv.com/tv-en-vivo/
 #EXTINF:-1 group-title="MUSICA" ,M-OASIS NO24H (TRUJILLO)
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-
-
-#EXTINF: NN  
-#EXTINF:-1 group-title="MUSICA" ,M-CANAL 33 - ARGENTINA - TR
-https://tuvideoonline.com.ar:3703/hybrid/play.m3u8
 
 
 #EXTINF: NN
@@ -708,36 +662,6 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF: NN
 #EXTINF:-1 group-title="MUSICA" ,EEUU-SD
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF: https://sintvperu.com/
-#EXTINF:-1 group-title="MUSICA" ,M-SIN TV (LIMA)
-https://inliveserver.com:1936/19004/19004/chunklist_w1415702481.m3u8
-
-
-#EXTINF: NN
-#EXTINF:-1 group-title="MUSICA" ,M-SICARDI - ARGENTINA- TR
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-
-
-#EXTINF: NN
-#EXTINF:-1 group-title="MUSICA" ,TIERRAMIA TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-
-#EXTINF: NN
-#EXTINF:-1 group-title="MUSICA" ,MUSIC TOP-HD - AR LENTO
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF: NN
-#EXTINF:-1 group-title="MUSICA" ,TV POP
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: NN
-#EXTINF:-1 group-title="MUSICA" ,KPOP-HD
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
 
 
