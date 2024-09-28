@@ -697,6 +697,173 @@ https://tucineeurope-samsungspain.amagi.tv/TuCineEurope-Samsung/master.m3u8
 
 
 
+#EXTINF: https://autenticatv.pe/
+#EXTINF:-1 group-title="TEMPO" ,AUTENTCA TV (MOYOBAMBA)
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF: https://online.tvcosmos.pe/envivo.html
+#EXTINF:-1 group-title="TEMPO" ,TV COSMOS 15.5 (TRUJILLO)
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w315023434.m3u8
+
+
+
+#EXTINF: https://evanufilms.wixsite.com/tvenlineawebsite/team-4
+#EXTINF:-1 group-title="TEMPO" ,TV CUSCO (CUSCO)
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+
+
+
+
+#EXTINF: https://uraniotv.pe/
+#EXTINF:-1 group-title="TEMPO" ,URANIO TV (YURIMAGUAS)
+https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF: https://visionsurtv.pe/tv-en-vivo/
+#EXTINF:-1 group-title="TEMPO" ,VISION SUR TV (AREQUIPA)
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_3yptRX0C/chunks.m3u8?nimblesessionid=14999387
+
+
+
+
+#EXTINF: https://playmax.tv/vz/
+#EXTINF:-1 group-title="TEMPO" ,VZ TV (MOYOBAMBA)
+https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF: https://playmax.tv/vz/
+#EXTINF:-1 group-title="TEMPO" ,BNB TV (UCAYALI)
+https://play.agenciastreaming.com:8081/bnblimalive/tracks-v1a1/mono.m3u8
+
+--GENERALES--
+
+#EXTINF: https://xtrematv.com/?p=1077
+#EXTINF:-1 group-title="TEMPO" ,PANDO NET
+https://ssh101-fl.bozztv.com/ssh101/pandonettv4201/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=1077
+#EXTINF:-1 group-title="TEMPO" ,PANDO NET
+https://ssh101-fl.bozztv.com/ssh101/pandonettv4201/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=1196
+#EXTINF:-1 group-title="TEMPO" ,SIMA VISION
+https://soportedvb.click:3668/live/simavisiontvlive.m3u8
+
+
+
+#EXTINF: https://xtrematv.com/?p=1213
+#EXTINF:-1 group-title="TEMPO" ,SICARDI TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=1221
+#EXTINF:-1 group-title="TEMPO" ,TELECINCO
+https://videohd.live:19360/8016/8016.m3u8
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=1231
+#EXTINF:-1 group-title="TEMPO" ,VER TV
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w122406606.m3u8
+
+
+
+
+#EXTINF: https://canalmultivision.com/ https://xtrematv.com/?p=1247
+#EXTINF:-1 group-title="TEMPO" ,MULTIVISION - REP DOM
+https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/chunklist_w1325194268.m3u8
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=2311
+#EXTINF:-1 group-title="TEMPO" ,CANAL 3 KMK
+https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=1268
+#EXTINF:-1 group-title="TEMPO" ,VALLE NUEVO
+https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/chunklist_w345257806.m3u8
+
+
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=2804
+#EXTINF:-1 group-title="TEMPO" ,AUTONOMIA
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/chunks.m3u8?nimblesessionid=79844076
+
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=1287
+#EXTINF:-1 group-title="TEMPO" ,CAUSA COMUN
+https://ssh101-fl.bozztv.com/ssh101/pycausacomuntv/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=1299
+#EXTINF:-1 group-title="TEMPO" ,W TV - REP DOM
+https://5790d294af2dc.streamlock.net/wtv43/wtv43/chunklist_w1135901359.m3u8
+
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=1303
+#EXTINF:-1 group-title="TEMPO" ,MEGA TV  - BOLIVIA
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1101093071.m3u8
+
+
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=2329
+#EXTINF:-1 group-title="TEMPO" ,TVS X TV - BOLIVIA
+https://xhateaec.com:8800/hls/visitor/visitor/09b15145dec3e2ff643906b681ff0ac9/index.m3u8
+
+
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=2337
+#EXTINF:-1 group-title="TEMPO" ,EXTREMA TV - COSTA RICA
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1709622122.m3u8
+
+
+
+
+#EXTINF: https://xtrematv.com/?p=1496
+#EXTINF:-1 group-title="TEMPO" ,MULTIVISION TV
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+
+
 
 
 
