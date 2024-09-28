@@ -5,26 +5,6 @@
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
 
-#EXTINF: https://www.atv.pe/envivo-atv
-#EXTINF:-1 group-title="PERU" ,ATV + NOTICIAS (LIMA)
-https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_240p/chunks.m3u8
-
-
-#EXTINF: https://www.atv.pe/envivo-atv
-#EXTINF:-1 group-title="PERU" ,ATV (LIMA) BLOKEO
-https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_240p/chunks.m3u8
-
-
-#EXTINF: https://planetatv.cl/planetatv-movie/
-#EXTINF:-1 group-title="PERU" ,PLANETA TV - CL
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-
-
-#EXTINF: https://planetatv.cl/planetatv-family/
-#EXTINF:-1 group-title="PERU" ,PLANETA FAMILY - CL
-https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
-
-
 #EXTINF: https://www.playgt.net/barbetv
 #EXTINF:-1 group-title="PERU" ,BARBE - GUAT
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
