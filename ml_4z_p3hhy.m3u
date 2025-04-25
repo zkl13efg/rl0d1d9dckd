@@ -7,7 +7,7 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 
 #EXTINF: https://tvperuanisima.com/
 #EXTINF:-1 group-title="PERU" ,PERUANISIMA (LIMA)
-https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w631565073.m3u8
+https://k20.usastreams.com:8081/tvperuanisima/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: www.mi-television.com
@@ -18,11 +18,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF: https://www.playgt.net/visiontv
 #EXTINF:-1 group-title="PERU" ,VISION TV NO24H - GUATEMALA
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-
-#EXTINF: NN  
-#EXTINF:-1 group-title="PERU" ,TELE 5 - ARGENTINA
-https://videohd.live:19360/8016/8016.m3u8
 
 
 #EXTINF: https://www.playgt.net/barbetv
@@ -67,7 +62,7 @@ https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 
 #EXTINF: https://canalmultivision.com/ https://xtrematv.com/?p=1247
 #EXTINF:-1 group-title="PERU" ,MULTIVISION - REP DOM
-https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/chunklist_w1325194268.m3u8
+https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/chunklist_w1515474844.m3u8
 
 
 #EXTINF: NN
@@ -242,7 +237,7 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
 #EXTINF: https://radiusac.pe/
 #EXTINF:-1 group-title="PERU" ,UTV (UCAYALI)
-https://video.agenciastreaming.com:3959/live/utvlive.m3u8
+https://play.agenciastreaming.com:8081/supertv/index.fmp4.m3u8
 
 
 #EXTINF: https://asiritv.pe/
@@ -267,7 +262,7 @@ https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1101093071.m3u8
 
 #EXTINF: https://xtrematv.com/?p=1287
 #EXTINF:-1 group-title="PERU" ,CAUSA COMUN NO24H - NN
-https://ssh101-fl.bozztv.com/ssh101/pycausacomuntv/tracks-v1a1/mono.m3u8
+https://cdnhd.iblups.com/hls/4TD20V3ENU.m3u8
 
 
 #EXTINF: https://xtrematv.com/?p=1299
@@ -288,6 +283,11 @@ https://vdochile.com:3264/stream/play.m3u8
 #EXTINF: https://www.ecotel.tv/
 #EXTINF:-1 group-title="PERU" ,ECOTEL NO24H - ECUADOR
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+
+#EXTINF: NN  
+#EXTINF:-1 group-title="PERU" ,TELE 5 - ARGENTINA
+https://videohd.live:19360/8016/8016.m3u8
 
 
 #EXTINF: https://online.tvcosmos.pe/envivo.html
@@ -317,9 +317,9 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w315023434.m3u8
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
 
 
-#EXTINF: https://www.facebook.com/nativanosconecta
+#EXTINF: https://www.ntv.pe       https://www.facebook.com/nativanosconecta
 #EXTINF:-1 group-title="PERU" ,NATIVA TV 1 (LIMA)
-https://servilive.com:3449/live/mlecaroslive.m3u8
+https://www.ntv.pe/salida/nativa.m3u8
 
 
 #EXTINF: https://conecta2peru.com/
