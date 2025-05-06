@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="" tv-test="PERU.m3u"
 
 
-#EXTINF: https://tvperuanisima.com/
+
 #EXTINF:-1 group-title="PERU" ,PERUANISIMA (LIMA)
 https://k20.usastreams.com:8081/tvperuanisima/tracks-v1a1/mono.m3u8
 
 
-#EXTINF: www.mi-television.com
+
 #EXTINF:-1 group-title="PERU" ,CLASICOS TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 
-#EXTINF: www.fmcosmos.com/vivo
+
 #EXTINF:-1 group-title="PERU" ,COSMOS - ARG
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
