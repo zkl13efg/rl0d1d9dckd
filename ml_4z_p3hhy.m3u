@@ -52,28 +52,9 @@ https://live.obslivestream.com/yurivision/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="PERU" ,PANCTV
-https://panel.host-live.com:19360/20000/20000.m3u8
-
-
-
-#EXTINF:-1 group-title="PERU" ,TV MAS
-https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1 group-title="PERU" ,UNIVISION US
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
-
-
-#EXTINF:-1 group-title="PERU" ,CPN - LIMA
-https://video2.lhdserver.es/cableperu/live.m3u8
-
-
-
-#EXTINF:-1 group-title="PERU" ,OASIS RTV
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 
 
 
@@ -91,31 +72,9 @@ https://live.obslivestream.com/vivatv/tracks-v3a1/mono.m3u8
 https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="PERU" ,MAKAO TV, REP DOM
-https://live.obslivestream.com/makaomux/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 group-title="PERU" ,TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-
-
-#EXTINF:-1 group-title="PERU" ,BOLIVISION
-https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -144,7 +103,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" ,SOL TV NO24H - GUAT
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-
 
 
 
@@ -183,6 +141,29 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="PERU" ,PANCTV
+https://panel.host-live.com:19360/20000/20000.m3u8
+
+
+
+#EXTINF:-1 group-title="PERU" ,TV MAS
+https://live.obslivestream.com/tvmas/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="PERU" ,CPN - LIMA
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+
+
+#EXTINF:-1 group-title="PERU" ,OASIS RTV
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+
+
+#EXTINF:-1 group-title="PERU" ,MAKAO TV - REP DOM
+https://live.obslivestream.com/makaomux/tracks-v1a1/mono.m3u8
 
 
 
