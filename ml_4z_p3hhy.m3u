@@ -22,16 +22,6 @@ https://d1svme839xkbsn.cloudfront.net/480p.m3u8
 
 
 
-#EXTINF:-1 group-title="PERU" ,PANAMERICANA
-http://190.2.212.209:8050/play/a0p5
-
-
-
-#EXTINF:-1 group-title="PERU" ,LATINA C1
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b2353665786680b2a4bb1bc5&sid=ba5t1l1xb2479463692680b2a4bb1bc4&ndvc=1
-
-
-
 #EXTINF:-1 group-title="PERU" ,LATINA C2
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
@@ -52,11 +42,6 @@ https://live.obslivestream.com/yurivision/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="PERU" ,UNIVISION US
-http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
-
-
-
 
 #EXTINF:-1 group-title="PERU" ,ORIENTE TV - YURIMAGUAS
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
@@ -73,21 +58,10 @@ https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="PERU" ,TELEMUNDO PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="PERU" ,CLASICOS TV
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?nimblesessionid=28109626
 
 
 
@@ -160,6 +134,7 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 group-title="PERU" ,OASIS RTV
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+
 
 
 #EXTINF:-1 group-title="PERU" ,MAKAO TV - REP DOM
@@ -314,6 +289,16 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 
 
+#EXTINF:-1 group-title="PERU" ,TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+
+
+#EXTINF:-1 group-title="PERU" ,UNIVISION US
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+
+
+
 
 
 
@@ -380,12 +365,12 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 
 
 
-#EXTINF:-1 group-title="PERU" ,P-BOB ESPON (ESPAÑA) 
+#EXTINF:-1 group-title="PERU" ,P-BOB ESPON (ESP) 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 group-title="PERU" ,P-NICK LATINO
+#EXTINF:-1 group-title="PERU" ,P-NICK LAT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
 
 
@@ -395,14 +380,47 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c
 
 
 
-#EXTINF:-1 group-title="PERU" ,P-YU-GI-OH(LATINO)
+#EXTINF:-1 group-title="PERU" ,P-YU-GI-OH(LAT)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
 
 
 
 
+#EXTINF:-1 group-title="PERU" ,P-SOUTH PARK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
+
+
+
+#EXTINF:-1 group-title="PERU" ,P-HECHIZADA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+
+
+
+#EXTINF:-1 group-title="PERU" ,P-H ULTRATMBA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+
+
+
+
+#EXTINF:-1 group-title="PERU" ,P-PADR MAGIC
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+
+
+
+#EXTINF:-1 group-title="PERU" ,P-3 CHIFLADOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+
+
+
+
+#EXTINF:-1 group-title="PERU" ,P-MIST SIN RESOL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
 
