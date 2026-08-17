@@ -1,138 +1,50 @@
 #EXTM3U x-tvg-url="" x-author="az" x-update="26-ago"
 
-#EXTINF:-1 group-title="PERU",Willax TV1 (1080p)
-http://190.93.224.42/WILLAX/index.m3u8
 
-#EXTINF:-1 group-title="PERU",Willax TV2 (720p) [NO-24H]
+#EXTINF:-1 group-title="PERU",Willax
 http://187.102.210.46/WILLAX/index.m3u8
 
-
-
-
-#EXTINF:-1 group-title="PERU",Panamericana TV1 (1080p)
-http://45.171.108.253:8888/PANAMERICANA/index.m3u8
-
-#EXTINF:-1 group-title="PERU",Panamericana TV2 (1080p)
-http://190.93.224.42/PANAMERICANA/index.m3u8
-
-#EXTINF:-1 group-title="PERU",Panamericana TV3 (720p)
+#EXTINF:-1 group-title="PERU",Panamer
 http://177.234.249.178:8888/PANAMERICANA/index.m3u8
 
-
-
-#EXTINF:-1 group-title="PERU" ,GLOBAL TV
+#EXTINF:-1 group-title="PERU" ,GLOBAL
 https://stmv.gmpro.top/global/global/playlist.m3u8?hls_ctx=o2881323
 
-
-
-#EXTINF:-1 group-title="PERU",ATV Sur (1080p)
+#EXTINF:-1 group-title="PERU",ATV Sur
 http://190.93.224.42/ATV-SUR/index.m3u8
 
-
-
-
-#EXTINF:-1 group-title="PERU",La Tele (1080p)
+#EXTINF:-1 group-title="PERU",La Tele
 http://190.93.224.42/LA-TELE/index.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="PERU",America Television (1080p)
+#EXTINF:-1 group-title="PERU",America pe
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="PERU",ATV v1 (1080p)
-http://190.93.224.42/ATV/index.m3u8
-
-#EXTINF:-1 group-title="PERU",ATV v2 (720p)
+#EXTINF:-1 group-title="PERU",ATV
 http://187.102.210.46/ATV/index.m3u8
 
-#EXTINF:-1 group-title="PERU",ATV v3 (720p)
-https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="PERU",ATV mas1 (1080p)
-http://177.234.249.178:8888/ATV/index.m3u8
-
-#EXTINF:-1 group-title="PERU",ATV mas2 (1080p)
-http://179.60.51.134:8888/ATV/index.m3u8
-
-#EXTINF:-1 group-title="PERU",ATV mas3 (1080p)
+#EXTINF:-1 group-title="PERU",ATV mas
 http://190.93.224.42/ATV-PLUS/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="PERU",Latina v1 (1080p)
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU",Latina v2 (1080p)
+#EXTINF:-1 group-title="PERU",Latina
 http://190.93.224.42/LATINA/index.m3u8
 
-#EXTINF:-1 group-title="PERU" ,LATINA
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="PERU",Latina Clasicos1 (1080p)
+#EXTINF:-1 group-title="PERU",Latina Clasi
 http://45.171.108.253:8888/LATINA/index.m3u8
 
-#EXTINF:-1 group-title="PERU",Latina Clasicos2 (1080p)
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU" ,LATINA CLASICOS
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="PERU",Latina Noticias v1 24/7 (1080p)
-https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
-
-#EXTINF:-1 group-title="PERU",Latina Noticias v2 24/7 (720p)
+#EXTINF:-1 group-title="PERU",Latina Noti
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="PERU",Exitosa TV1 (1080p)
-http://190.93.224.42/EXITOSA/index.m3u8
-
-#EXTINF:-1 group-title="PERU",Exitosa TV2 (720p)
+#EXTINF:-1 group-title="PERU",Exitosa
 http://187.102.210.46/EXITOSA/index.m3u8
 
-#EXTINF:-1 group-title="PERU",Exitosa TV3 (720p) [Not 24/7]
-https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
-
-#EXTINF:-1 group-title="PERU",Karibena Exitosa TV4 (720p)
-http://187.102.210.46/KARIBENA/index.m3u8
-
-#EXTINF:-1 group-title="PERU" ,EXITOSA (LIMA)
-https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="PERU",TV Peru Noticias v1 (1080p)
+#EXTINF:-1 group-title="PERU",TV Peru
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 
-#EXTINF:-1 group-title="PERU",Nacional Tv Peru v2 (720p)
+#EXTINF:-1 group-title="PERU",Nacional
 https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
 
-#EXTINF:-1 group-title="PERU",RPP TV (1080p)
+#EXTINF:-1 group-title="PERU",RPP TV
 http://190.93.224.42/RPP/index.m3u8
-
 
 
 
@@ -160,10 +72,6 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 group-title="PERU",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 group-title="PERU" ,AUTENTICA TV (MOYOBAMBA)
-https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 group-title="PERU",Cadena TV (720p) [Not 24/7]
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
@@ -172,9 +80,6 @@ https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 
 #EXTINF:-1 group-title="PERU",Canal 8 Catacaos (720p) [Not 24/7]
 https://live.obslivestream.com/canal8/index.m3u8
-
-#EXTINF:-1 group-title="PERU" ,CATACAOS (PIURA)
-https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
 
 
@@ -248,9 +153,6 @@ https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 group-title="PERU",Telecolor Yurimaguas (720p) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 group-title="PERU" ,TELECOLOR TV (YURIMAGUAS)
-https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 group-title="PERU",TV Bella Asuncion
@@ -266,10 +168,6 @@ https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
 #EXTINF:-1 group-title="PERU",Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
-
-#EXTINF:-1 group-title="PERU" ,URANIO TV (YURIMAGUAS)
-https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
-
 
 
 
@@ -368,10 +266,6 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 group-title="PERU" ,UNIVERSAL
 http://181.224.200.5:2277/play/a0ak/index.m3u8
 
-#EXTINF:-1 group-title="PERU" ,Pulpo tv arg
-https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-
-
 
 
 
@@ -437,7 +331,7 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 
 
 
-#EXTINF:-1 group-title="PERU",24/7 Canal de Noticias
+#EXTINF:-1 group-title="PERU",24 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 
@@ -571,17 +465,10 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 group-title="PERU",Nativa (720p)
 http://187.102.210.46/NATIVATV/index.m3u8
 
-#EXTINF:-1 group-title="PERU",Nativa (720p) [Not 24/7]
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-
 
 
 #EXTINF:-1 group-title="PERU",ONDA DIGITAL (720p)
 https://tv.ondadigital.pe/ondadigital/index.m3u8
-
-#EXTINF:-1 group-title="PERU" ,ONDA DIGITAL (LIMA)
-https://tv.ondadigital.pe/ondadigital/tracks-v1a1/mono.m3u8
-
 
 
 
@@ -618,15 +505,10 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
 
 
-#EXTINF:-1 group-title="PERU",Trivu
-https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
+
 
 #EXTINF:-1 group-title="PERU",Trivu (1080p)
 http://190.93.224.42/TRIVU-TV/index.m3u8
-
-#EXTINF:-1 group-title="PERU" ,TRIVU TV (LIMA)
-https://www.chasquirouter.com/salida/sd/trivu.m3u8
-
 
 
 
@@ -637,9 +519,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU",TV Peruanisima (720p)
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
-
-#EXTINF:-1 group-title="PERU" ,PERUANISIMA (LIMA)
-https://k20.usastreams.com:8081/tvperuanisima/tracks-v1a1/mono.m3u8
 
 
 
@@ -657,13 +536,6 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 group-title="PERU",Nickelodeon (720p)
 https://gpuserver5.tier1streams.com/NICKELODEON/index.m3u8
 
-
-#EXTINF:-1 group-title="PERU",Just For Laughs Gags
-#EXTVLCOPT:http-referrer=https://watch.plex.tv
-
-
-#EXTINF:-1 group-title="PERU",Robot Wars by Mech+
-#EXTVLCOPT:http-referrer=https://watch.plex.tv
 
 #EXTINF:-1 group-title="PERU",Yu-Gi-Oh en espanol (1080p)
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
